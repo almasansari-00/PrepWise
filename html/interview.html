@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PrepWise | Mock Interview</title>
+
+    <link rel="stylesheet" href="../CSS/interview.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+    <nav class="navbar">
+
+        <h2 class="logo">PrepWise</h2>
+
+        <ul class="nav-links">
+
+            <li><a href="../html/dashboard.html">Dashboard</a></li>
+
+            <li><a href="../html/questions.html">Questions</a></li>
+
+            <li><a href="../html/quiz.html">Quiz</a></li>
+
+            <li><a href="../html/profile.html">Profile</a></li>
+
+        </ul>
+
+    </nav>
+
+</header>
+
+<section class="interview-start">
+
+    <div class="interview-card">
+
+        <h1>Mock Interview</h1>
+
+        <p>
+            Practice real interview questions and improve your confidence.
+        </p>
+
+        <label>Category</label>
+
+        <select id="category">
+
+            <option value="HTML">HTML</option>
+
+            <option value="CSS">CSS</option>
+
+            <option value="JavaScript">JavaScript</option>
+
+            <option value="React">React</option>
+
+            <option value="DSA">DSA</option>
+
+        </select>
+
+        <label>Difficulty</label>
+
+        <select id="difficulty">
+
+            <option value="Easy">Easy</option>
+
+            <option value="Medium">Medium</option>
+
+            <option value="Hard">Hard</option>
+
+        </select>
+
+        <button id="startInterview">
+
+            <i class="fa-solid fa-microphone"></i>
+
+            Start Interview
+
+        </button>
+
+    </div>
+
+</section>
+
+<!-- Interview Screen -->
+
+<section id="interviewContainer" style="display:none;">
+
+    <div class="interview-card">
+
+        <div class="interview-top">
+
+            <span id="questionNumber"></span>
+
+            <span id="timer">⏱ 60</span>
+
+        </div>
+
+        <div class="progress">
+
+            <div class="progress-bar" id="progressBar"></div>
+
+        </div>
+
+        <h2 id="question"></h2>
+
+        <textarea
+            id="answer"
+            rows="8"
+            placeholder="Write your answer here...">
+        </textarea>
+
+        <div class="buttons">
+
+            <button id="skipBtn">Skip</button>
+
+            <button id="nextBtn">Next</button>
+
+        </div>
+
+    </div>
+
+</div>
+
+</section>
+    <div class="back-container">
+
+    <a href="javascript:history.back()" class="back-btn">
+
+        <i class="fas fa-arrow-left"></i>
+
+        Back
+
+    </a>
+
+
+<script src="../JS/interview.js"></script>
+
+</body>
+
+</html>

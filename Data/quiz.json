@@ -1,0 +1,2094 @@
+[
+  {
+    "id": 1,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Makeup Language",
+      "Hyper Text Markup Language",
+      "High Text Markup Language",
+      "Hyper Tool Markup Language"
+    ],
+    "correctAnswer": "Hyper Text Markup Language",
+    "explanation": "HTML stands for Hyper Text Markup Language."
+  },
+  {
+    "id": 2,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which tag is used to create a hyperlink?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<url>"
+    ],
+    "correctAnswer": "<a>",
+    "explanation": "The <a> tag is used to create hyperlinks."
+  },
+  {
+    "id": 3,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which HTML tag is used to insert an image?",
+    "options": [
+      "<picture>",
+      "<img>",
+      "<image>",
+      "<src>"
+    ],
+    "correctAnswer": "<img>",
+    "explanation": "The <img> tag is used to display images."
+  },
+  {
+    "id": 4,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which tag is used for the largest heading?",
+    "options": [
+      "<heading>",
+      "<h6>",
+      "<h1>",
+      "<head>"
+    ],
+    "correctAnswer": "<h1>",
+    "explanation": "<h1> defines the largest heading."
+  },
+  {
+    "id": 5,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which HTML tag is used to create a paragraph?",
+    "options": [
+      "<p>",
+      "<para>",
+      "<text>",
+      "<pg>"
+    ],
+    "correctAnswer": "<p>",
+    "explanation": "The <p> tag defines a paragraph."
+  },
+  {
+    "id": 6,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which attribute specifies an alternate text for an image?",
+    "options": [
+      "src",
+      "alt",
+      "title",
+      "href"
+    ],
+    "correctAnswer": "alt",
+    "explanation": "The alt attribute provides alternative text for an image."
+  },
+  {
+    "id": 7,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which HTML element is used to create an unordered list?",
+    "options": [
+      "<ol>",
+      "<list>",
+      "<ul>",
+      "<li>"
+    ],
+    "correctAnswer": "<ul>",
+    "explanation": "The <ul> element creates an unordered (bulleted) list."
+  },
+  {
+    "id": 8,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which tag defines a table row?",
+    "options": [
+      "<td>",
+      "<table>",
+      "<tr>",
+      "<th>"
+    ],
+    "correctAnswer": "<tr>",
+    "explanation": "The <tr> element defines a table row."
+  },
+  {
+    "id": 9,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which input type hides the entered characters?",
+    "options": [
+      "text",
+      "email",
+      "password",
+      "hidden"
+    ],
+    "correctAnswer": "password",
+    "explanation": "The password input type hides the entered text."
+  },
+  {
+    "id": 10,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Which declaration tells the browser to use HTML5?",
+    "options": [
+      "<!HTML5>",
+      "<!DOCTYPE html>",
+      "<html5>",
+      "<doctype>"
+    ],
+    "correctAnswer": "<!DOCTYPE html>",
+    "explanation": "The <!DOCTYPE html> declaration tells the browser that the document uses HTML5."
+  },
+{
+  "id": 11,
+  "category": "HTML",
+  "difficulty": "Easy",
+  "question": "Which HTML tag is used to create an ordered list?",
+  "options": [
+    "<ul>",
+    "<ol>",
+    "<li>",
+    "<list>"
+  ],
+  "correctAnswer": "<ol>",
+  "explanation": "The <ol> tag creates a numbered (ordered) list."
+},
+{
+  "id": 12,
+  "category": "HTML",
+  "difficulty": "Easy",
+  "question": "Which HTML element is used to define the title of a webpage?",
+  "options": [
+    "<meta>",
+    "<head>",
+    "<title>",
+    "<header>"
+  ],
+  "correctAnswer": "<title>",
+  "explanation": "The <title> element defines the title shown in the browser tab."
+},
+{
+  "id": 13,
+  "category": "HTML",
+  "difficulty": "Easy",
+  "question": "Which HTML tag is used to create a line break?",
+  "options": [
+    "<lb>",
+    "<break>",
+    "<br>",
+    "<hr>"
+  ],
+  "correctAnswer": "<br>",
+  "explanation": "The <br> tag inserts a single line break."
+},
+{
+  "id": 14,
+  "category": "HTML",
+  "difficulty": "Easy",
+  "question": "Which HTML tag is used to create a form?",
+  "options": [
+    "<input>",
+    "<form>",
+    "<fieldset>",
+    "<label>"
+  ],
+  "correctAnswer": "<form>",
+  "explanation": "The <form> element is used to collect user input."
+},
+{
+  "id": 15,
+  "category": "HTML",
+  "difficulty": "Easy",
+  "question": "Which attribute is used to uniquely identify an HTML element?",
+  "options": [
+    "class",
+    "name",
+    "id",
+    "type"
+  ],
+  "correctAnswer": "id",
+  "explanation": "The id attribute uniquely identifies an element on a webpage."
+},
+{
+  "id": 16,
+  "category": "HTML",
+  "difficulty": "Easy",
+  "question": "Which HTML tag is used to create a checkbox?",
+  "options": [
+    "type='radio'",
+    "type='checkbox'",
+    "type='button'",
+    "type='text'"
+  ],
+  "correctAnswer": "type='checkbox'",
+  "explanation": "An <input> element with type='checkbox' creates a checkbox."
+},
+{
+  "id": 17,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which semantic HTML element is used for the main navigation links?",
+  "options": [
+    "<section>",
+    "<article>",
+    "<nav>",
+    "<aside>"
+  ],
+  "correctAnswer": "<nav>",
+  "explanation": "The <nav> element defines a section containing navigation links."
+},
+{
+  "id": 18,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML5 element is used to embed video content?",
+  "options": [
+    "<media>",
+    "<movie>",
+    "<video>",
+    "<embed>"
+  ],
+  "correctAnswer": "<video>",
+  "explanation": "The <video> element is used to embed video files in HTML5."
+},
+{
+  "id": 19,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML attribute makes a form field mandatory?",
+  "options": [
+    "validate",
+    "required",
+    "mandatory",
+    "needed"
+  ],
+  "correctAnswer": "required",
+  "explanation": "The required attribute prevents form submission until the field is filled."
+},
+{
+  "id": 20,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML5 API allows storing data in the browser without an expiration date?",
+  "options": [
+    "Session Storage",
+    "Cookies",
+    "Local Storage",
+    "Indexed HTML"
+  ],
+  "correctAnswer": "Local Storage",
+  "explanation": "Local Storage stores data in the browser with no expiration time."
+},
+{
+  "id": 21,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML tag is used to define the main content of a webpage?",
+  "options": [
+    "<content>",
+    "<main>",
+    "<body>",
+    "<section>"
+  ],
+  "correctAnswer": "<main>",
+  "explanation": "The <main> element represents the primary content of a webpage."
+},
+{
+  "id": 22,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML tag is used to define a footer section?",
+  "options": [
+    "<bottom>",
+    "<footer>",
+    "<end>",
+    "<section>"
+  ],
+  "correctAnswer": "<footer>",
+  "explanation": "The <footer> element defines the footer for a document or section."
+},
+{
+  "id": 23,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML element is used to define important text?",
+  "options": [
+    "<b>",
+    "<strong>",
+    "<important>",
+    "<mark>"
+  ],
+  "correctAnswer": "<strong>",
+  "explanation": "The <strong> element indicates text with strong importance."
+},
+{
+  "id": 24,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which attribute specifies the URL of a hyperlink?",
+  "options": [
+    "src",
+    "href",
+    "link",
+    "url"
+  ],
+  "correctAnswer": "href",
+  "explanation": "The href attribute specifies the destination URL of a hyperlink."
+},
+{
+  "id": 25,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML tag is used to display tabular data?",
+  "options": [
+    "<table>",
+    "<grid>",
+    "<data>",
+    "<tbody>"
+  ],
+  "correctAnswer": "<table>",
+  "explanation": "The <table> element is used to display data in rows and columns."
+},
+{
+  "id": 26,
+  "category": "HTML",
+  "difficulty": "Medium",
+  "question": "Which HTML tag is used to define a table header cell?",
+  "options": [
+    "<td>",
+    "<tr>",
+    "<th>",
+    "<thead>"
+  ],
+  "correctAnswer": "<th>",
+  "explanation": "The <th> element defines a header cell in a table."
+},
+{
+  "id": 27,
+  "category": "HTML",
+  "difficulty": "Hard",
+  "question": "Which HTML5 element is used to draw graphics using JavaScript?",
+  "options": [
+    "<svg>",
+    "<canvas>",
+    "<graphics>",
+    "<draw>"
+  ],
+  "correctAnswer": "<canvas>",
+  "explanation": "The <canvas> element provides a drawable area for graphics using JavaScript."
+},
+{
+  "id": 28,
+  "category": "HTML",
+  "difficulty": "Hard",
+  "question": "Which HTML attribute is used to provide custom data to an element?",
+  "options": [
+    "custom",
+    "data-*",
+    "dataset",
+    "value"
+  ],
+  "correctAnswer": "data-*",
+  "explanation": "The data-* attributes allow developers to store custom data on HTML elements."
+},
+{
+  "id": 29,
+  "category": "HTML",
+  "difficulty": "Hard",
+  "question": "Which HTML element is commonly used to embed another webpage?",
+  "options": [
+    "<embed>",
+    "<object>",
+    "<iframe>",
+    "<frame>"
+  ],
+  "correctAnswer": "<iframe>",
+  "explanation": "The <iframe> element embeds another HTML page within the current page."
+},
+{
+  "id": 30,
+  "category": "HTML",
+  "difficulty": "Hard",
+  "question": "Which HTML tag is used to define metadata that is not displayed on the webpage?",
+  "options": [
+    "<meta>",
+    "<data>",
+    "<info>",
+    "<header>"
+  ],
+  "correctAnswer": "<meta>",
+  "explanation": "The <meta> element provides metadata such as character encoding, viewport settings, and SEO information."
+},
+{
+  "id": 31,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "What does CSS stand for?",
+  "options": [
+    "Creative Style Sheets",
+    "Computer Style Sheets",
+    "Cascading Style Sheets",
+    "Colorful Style Sheets"
+  ],
+  "correctAnswer": "Cascading Style Sheets",
+  "explanation": "CSS stands for Cascading Style Sheets and is used to style web pages."
+},
+{
+  "id": 32,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property is used to change the text color?",
+  "options": [
+    "font-color",
+    "color",
+    "text-color",
+    "background-color"
+  ],
+  "correctAnswer": "color",
+  "explanation": "The color property is used to set the text color."
+},
+{
+  "id": 33,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property is used to change the background color?",
+  "options": [
+    "bgcolor",
+    "background-color",
+    "color",
+    "background"
+  ],
+  "correctAnswer": "background-color",
+  "explanation": "The background-color property changes the background color of an element."
+},
+{
+  "id": 34,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which CSS property controls the text size?",
+  "options": [
+    "font-style",
+    "font-weight",
+    "font-size",
+    "text-size"
+  ],
+  "correctAnswer": "font-size",
+  "explanation": "The font-size property sets the size of the text."
+},
+{
+  "id": 35,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property is used to make text bold?",
+  "options": [
+    "font-bold",
+    "font-weight",
+    "text-weight",
+    "bold"
+  ],
+  "correctAnswer": "font-weight",
+  "explanation": "The font-weight property controls the thickness of the text."
+},
+{
+  "id": 36,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property is used to align text horizontally?",
+  "options": [
+    "text-align",
+    "align",
+    "horizontal-align",
+    "justify"
+  ],
+  "correctAnswer": "text-align",
+  "explanation": "The text-align property aligns text horizontally."
+},
+{
+  "id": 37,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property adds space inside an element?",
+  "options": [
+    "margin",
+    "spacing",
+    "padding",
+    "border-spacing"
+  ],
+  "correctAnswer": "padding",
+  "explanation": "Padding adds space between the content and the border."
+},
+{
+  "id": 38,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property adds space outside an element?",
+  "options": [
+    "padding",
+    "margin",
+    "spacing",
+    "gap"
+  ],
+  "correctAnswer": "margin",
+  "explanation": "Margin creates space outside an element."
+},
+{
+  "id": 39,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which CSS property is used to create rounded corners?",
+  "options": [
+    "corner-radius",
+    "border-radius",
+    "radius",
+    "round"
+  ],
+  "correctAnswer": "border-radius",
+  "explanation": "The border-radius property creates rounded corners."
+},
+{
+  "id": 40,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property is used to add a shadow to an element?",
+  "options": [
+    "shadow",
+    "box-shadow",
+    "element-shadow",
+    "border-shadow"
+  ],
+  "correctAnswer": "box-shadow",
+  "explanation": "The box-shadow property adds shadow effects around an element."
+},
+{
+  "id": 41,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "What is the default position value in CSS?",
+  "options": ["relative", "absolute", "static", "fixed"],
+  "correctAnswer": "static",
+  "explanation": "The default value of the position property is static."
+},
+{
+  "id": 42,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which CSS property is used to create a flexible layout?",
+  "options": ["grid", "flex", "display:flex", "float"],
+  "correctAnswer": "display:flex",
+  "explanation": "display:flex enables the Flexbox layout."
+},
+{
+  "id": 43,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property changes the direction of Flexbox items?",
+  "options": ["justify-content", "flex-wrap", "flex-direction", "align-items"],
+  "correctAnswer": "flex-direction",
+  "explanation": "flex-direction controls the main axis direction."
+},
+{
+  "id": 44,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property aligns Flexbox items horizontally?",
+  "options": ["align-items", "justify-content", "text-align", "align-content"],
+  "correctAnswer": "justify-content",
+  "explanation": "justify-content aligns items along the main axis."
+},
+{
+  "id": 45,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property aligns Flexbox items vertically?",
+  "options": ["justify-content", "align-items", "vertical-align", "align-self"],
+  "correctAnswer": "align-items",
+  "explanation": "align-items aligns items along the cross axis."
+},
+{
+  "id": 46,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which display value enables CSS Grid?",
+  "options": ["display:grid", "display:flex", "display:block", "display:inline"],
+  "correctAnswer": "display:grid",
+  "explanation": "display:grid activates the CSS Grid layout."
+},
+{
+  "id": 47,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property defines Grid columns?",
+  "options": ["grid-column", "grid-template-columns", "columns", "grid-template"],
+  "correctAnswer": "grid-template-columns",
+  "explanation": "grid-template-columns defines the number and size of columns."
+},
+{
+  "id": 48,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property defines the spacing between Grid items?",
+  "options": ["spacing", "margin", "gap", "padding"],
+  "correctAnswer": "gap",
+  "explanation": "gap adds space between grid or flex items."
+},
+{
+  "id": 49,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which CSS property hides an element completely?",
+  "options": ["opacity:0", "visibility:hidden", "display:none", "hidden:true"],
+  "correctAnswer": "display:none",
+  "explanation": "display:none removes the element from the layout."
+},
+{
+  "id": 50,
+  "category": "CSS",
+  "difficulty": "Easy",
+  "question": "Which property changes the transparency of an element?",
+  "options": ["opacity", "alpha", "visibility", "transparent"],
+  "correctAnswer": "opacity",
+  "explanation": "opacity controls element transparency."
+},
+{
+  "id": 51,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property controls the stacking order of positioned elements?",
+  "options": ["stack", "layer", "z-index", "order"],
+  "correctAnswer": "z-index",
+  "explanation": "z-index determines which positioned element appears on top."
+},
+{
+  "id": 52,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which CSS unit is relative to the root element?",
+  "options": ["em", "rem", "%", "px"],
+  "correctAnswer": "rem",
+  "explanation": "rem is relative to the root (html) font size."
+},
+{
+  "id": 53,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which CSS unit is relative to the parent element's font size?",
+  "options": ["rem", "px", "em", "%"],
+  "correctAnswer": "em",
+  "explanation": "em is relative to the font size of the parent."
+},
+{
+  "id": 54,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "What is the CSS Box Model made of?",
+  "options": [
+    "Content, Margin",
+    "Content, Padding, Border, Margin",
+    "Padding, Border",
+    "Margin, Border"
+  ],
+  "correctAnswer": "Content, Padding, Border, Margin",
+  "explanation": "The CSS Box Model consists of content, padding, border, and margin."
+},
+{
+  "id": 55,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which property changes the mouse cursor style?",
+  "options": ["mouse", "cursor", "pointer", "hover"],
+  "correctAnswer": "cursor",
+  "explanation": "The cursor property specifies the mouse cursor style."
+},
+{
+  "id": 56,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which pseudo-class applies styles when hovering over an element?",
+  "options": [":focus", ":hover", ":active", ":visited"],
+  "correctAnswer": ":hover",
+  "explanation": ":hover styles an element when the mouse pointer is over it."
+},
+{
+  "id": 57,
+  "category": "CSS",
+  "difficulty": "Medium",
+  "question": "Which pseudo-class styles a focused input field?",
+  "options": [":hover", ":focus", ":checked", ":active"],
+  "correctAnswer": ":focus",
+  "explanation": ":focus applies styles when an element receives focus."
+},
+{
+  "id": 58,
+  "category": "CSS",
+  "difficulty": "Hard",
+  "question": "Which selector has the highest specificity?",
+  "options": [".class", "#id", "element", "*"],
+  "correctAnswer": "#id",
+  "explanation": "ID selectors have higher specificity than class or element selectors."
+},
+{
+  "id": 59,
+  "category": "CSS",
+  "difficulty": "Hard",
+  "question": "Which CSS feature is mainly used for responsive web design?",
+  "options": ["Variables", "Animations", "Media Queries", "Gradients"],
+  "correctAnswer": "Media Queries",
+  "explanation": "Media Queries apply different styles for different screen sizes."
+},
+{
+  "id": 60,
+  "category": "CSS",
+  "difficulty": "Hard",
+  "question": "Which CSS property controls how overflowing content is handled?",
+  "options": ["overflow", "clip", "display", "scroll"],
+  "correctAnswer": "overflow",
+  "explanation": "The overflow property specifies what happens when content exceeds an element's size."
+},
+{
+  "id": 61,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which company developed JavaScript?",
+  "options": ["Microsoft", "Netscape", "Google", "Oracle"],
+  "correctAnswer": "Netscape",
+  "explanation": "JavaScript was developed by Brendan Eich at Netscape in 1995."
+},
+{
+  "id": 62,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which keyword is used to declare a variable in modern JavaScript?",
+  "options": ["var", "let", "int", "string"],
+  "correctAnswer": "let",
+  "explanation": "let is the preferred keyword for mutable variables in modern JavaScript."
+},
+{
+  "id": 63,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which keyword is used to declare a constant?",
+  "options": ["const", "let", "var", "constant"],
+  "correctAnswer": "const",
+  "explanation": "const declares a variable whose reference cannot be reassigned."
+},
+{
+  "id": 64,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which method prints output to the browser console?",
+  "options": ["print()", "console.log()", "echo()", "document.write()"],
+  "correctAnswer": "console.log()",
+  "explanation": "console.log() prints messages to the browser console."
+},
+{
+  "id": 65,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which operator is used for strict equality?",
+  "options": ["=", "==", "===", "!="],
+  "correctAnswer": "===",
+  "explanation": "=== compares both value and data type."
+},
+{
+  "id": 66,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which function is used to display an alert box?",
+  "options": ["message()", "alert()", "popup()", "confirm()"],
+  "correctAnswer": "alert()",
+  "explanation": "alert() displays a dialog box with a message."
+},
+{
+  "id": 67,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which loop executes at least once?",
+  "options": ["for", "while", "do...while", "foreach"],
+  "correctAnswer": "do...while",
+  "explanation": "A do...while loop always executes its body at least once."
+},
+{
+  "id": 68,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which statement is used to make decisions in JavaScript?",
+  "options": ["loop", "if", "repeat", "switcher"],
+  "correctAnswer": "if",
+  "explanation": "The if statement is used for conditional execution."
+},
+{
+  "id": 69,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which keyword is used to define a function?",
+  "options": ["method", "func", "function", "define"],
+  "correctAnswer": "function",
+  "explanation": "The function keyword defines a JavaScript function."
+},
+{
+  "id": 70,
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "question": "Which symbol is used for single-line comments?",
+  "options": ["<!-- -->", "//", "/* */", "#"],
+  "correctAnswer": "//",
+  "explanation": "// is used for single-line comments."
+},
+{
+  "id": 71,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which method converts a JSON string into a JavaScript object?",
+  "options": ["JSON.stringify()", "JSON.parse()", "parseJSON()", "JSON.object()"],
+  "correctAnswer": "JSON.parse()",
+  "explanation": "JSON.parse() converts JSON text into a JavaScript object."
+},
+{
+  "id": 72,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which method converts a JavaScript object into a JSON string?",
+  "options": ["JSON.parse()", "JSON.stringify()", "toJSON()", "convertJSON()"],
+  "correctAnswer": "JSON.stringify()",
+  "explanation": "JSON.stringify() converts an object into JSON format."
+},
+{
+  "id": 73,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which array method adds an element to the end?",
+  "options": ["pop()", "push()", "shift()", "unshift()"],
+  "correctAnswer": "push()",
+  "explanation": "push() adds one or more elements to the end of an array."
+},
+{
+  "id": 74,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which array method removes the last element?",
+  "options": ["pop()", "push()", "shift()", "slice()"],
+  "correctAnswer": "pop()",
+  "explanation": "pop() removes the last element of an array."
+},
+{
+  "id": 75,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which DOM method selects an element by its ID?",
+  "options": ["querySelector()", "getElementById()", "getElementsByClassName()", "findElement()"],
+  "correctAnswer": "getElementById()",
+  "explanation": "getElementById() selects an element using its unique id."
+},
+{
+  "id": 76,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which event occurs when a button is clicked?",
+  "options": ["onchange", "onclick", "onmouseover", "onload"],
+  "correctAnswer": "onclick",
+  "explanation": "The onclick event fires when an element is clicked."
+},
+{
+  "id": 77,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which keyword stops a loop immediately?",
+  "options": ["stop", "exit", "break", "continue"],
+  "correctAnswer": "break",
+  "explanation": "break exits the current loop immediately."
+},
+{
+  "id": 78,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which keyword skips the current iteration of a loop?",
+  "options": ["break", "skip", "continue", "pass"],
+  "correctAnswer": "continue",
+  "explanation": "continue skips the current iteration and moves to the next one."
+},
+{
+  "id": 79,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which browser storage keeps data even after the browser is closed?",
+  "options": ["sessionStorage", "localStorage", "cookies", "cache"],
+  "correctAnswer": "localStorage",
+  "explanation": "localStorage persists data until it is manually removed."
+},
+{
+  "id": 80,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which browser storage is cleared when the browser tab is closed?",
+  "options": ["localStorage", "sessionStorage", "cookies", "indexedDB"],
+  "correctAnswer": "sessionStorage",
+  "explanation": "sessionStorage exists only for the lifetime of the current browser tab."
+},
+{
+  "id": 81,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which keyword is used to handle errors in JavaScript?",
+  "options": ["catch", "try", "try...catch", "throw"],
+  "correctAnswer": "try...catch",
+  "explanation": "try...catch is used to handle runtime errors."
+},
+{
+  "id": 82,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which keyword is used to throw a custom error?",
+  "options": ["error", "throw", "catch", "raise"],
+  "correctAnswer": "throw",
+  "explanation": "The throw statement is used to create custom exceptions."
+},
+{
+  "id": 83,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which method is used to execute a function after a delay?",
+  "options": ["setInterval()", "setTimeout()", "delay()", "wait()"],
+  "correctAnswer": "setTimeout()",
+  "explanation": "setTimeout() executes a function once after a specified delay."
+},
+{
+  "id": 84,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which method repeatedly executes a function after a fixed interval?",
+  "options": ["repeat()", "setTimeout()", "setInterval()", "loop()"],
+  "correctAnswer": "setInterval()",
+  "explanation": "setInterval() repeatedly executes a function until cleared."
+},
+{
+  "id": 85,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which function stops a running setInterval()?",
+  "options": ["stopInterval()", "clearInterval()", "clearTimeout()", "cancelInterval()"],
+  "correctAnswer": "clearInterval()",
+  "explanation": "clearInterval() stops a running interval."
+},
+{
+  "id": 86,
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "question": "Which API is used to make HTTP requests in modern JavaScript?",
+  "options": ["XMLHttpRequest", "fetch()", "request()", "http()"],
+  "correctAnswer": "fetch()",
+  "explanation": "fetch() is the modern API for making asynchronous HTTP requests."
+},
+{
+  "id": 87,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "What does DOM stand for?",
+  "options": [
+    "Document Object Model",
+    "Data Object Management",
+    "Digital Object Model",
+    "Document Order Map"
+  ],
+  "correctAnswer": "Document Object Model",
+  "explanation": "DOM stands for Document Object Model."
+},
+{
+  "id": 88,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which method adds an event listener to an element?",
+  "options": [
+    "addListener()",
+    "addEvent()",
+    "addEventListener()",
+    "listen()"
+  ],
+  "correctAnswer": "addEventListener()",
+  "explanation": "addEventListener() is the recommended way to attach events."
+},
+{
+  "id": 89,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which keyword creates a Promise?",
+  "options": ["promise", "Promise", "new Promise", "async"],
+  "correctAnswer": "new Promise",
+  "explanation": "Promises are created using the new Promise() constructor."
+},
+{
+  "id": 90,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which keyword is used before a function to make it asynchronous?",
+  "options": ["await", "promise", "async", "defer"],
+  "correctAnswer": "async",
+  "explanation": "The async keyword makes a function return a Promise."
+},
+{
+  "id": 91,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which keyword waits for a Promise to resolve?",
+  "options": ["wait", "resolve", "await", "then"],
+  "correctAnswer": "await",
+  "explanation": "await pauses execution until a Promise is resolved."
+},
+{
+  "id": 92,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which method is used to select the first matching element using a CSS selector?",
+  "options": [
+    "getElementById()",
+    "querySelector()",
+    "querySelectorAll()",
+    "getElementsByClassName()"
+  ],
+  "correctAnswer": "querySelector()",
+  "explanation": "querySelector() returns the first matching element."
+},
+{
+  "id": 93,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which method returns all matching elements using a CSS selector?",
+  "options": [
+    "querySelector()",
+    "querySelectorAll()",
+    "getElementsByTagName()",
+    "findAll()"
+  ],
+  "correctAnswer": "querySelectorAll()",
+  "explanation": "querySelectorAll() returns a NodeList of matching elements."
+},
+{
+  "id": 94,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which keyword refers to the current object in JavaScript?",
+  "options": ["self", "current", "this", "object"],
+  "correctAnswer": "this",
+  "explanation": "The 'this' keyword refers to the current execution context."
+},
+{
+  "id": 95,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which operator is used to spread elements of an array?",
+  "options": ["...", "&&", "??", "::"],
+  "correctAnswer": "...",
+  "explanation": "The spread operator (...) expands iterable elements."
+},
+{
+  "id": 96,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which operator is used for optional chaining?",
+  "options": [".?", "?.", "??", "::"],
+  "correctAnswer": "?.",
+  "explanation": "Optional chaining safely accesses nested object properties."
+},
+{
+  "id": 97,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which operator provides a default value for null or undefined?",
+  "options": ["||", "&&", "??", "?."],
+  "correctAnswer": "??",
+  "explanation": "The nullish coalescing operator (??) returns the right operand only if the left is null or undefined."
+},
+{
+  "id": 98,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which array method creates a new array by applying a function to each element?",
+  "options": ["forEach()", "filter()", "map()", "reduce()"],
+  "correctAnswer": "map()",
+  "explanation": "map() returns a new array after transforming each element."
+},
+{
+  "id": 99,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which array method returns elements that satisfy a condition?",
+  "options": ["map()", "filter()", "find()", "reduce()"],
+  "correctAnswer": "filter()",
+  "explanation": "filter() creates a new array containing elements that pass the test."
+},
+{
+  "id": 100,
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "question": "Which array method reduces an array to a single value?",
+  "options": ["map()", "reduce()", "filter()", "find()"],
+  "correctAnswer": "reduce()",
+  "explanation": "reduce() combines all elements into a single accumulated value."
+},
+{
+  "id": 101,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "What is React?",
+  "options": [
+    "A database",
+    "A JavaScript library",
+    "A CSS framework",
+    "A programming language"
+  ],
+  "correctAnswer": "A JavaScript library",
+  "explanation": "React is a JavaScript library for building user interfaces."
+},
+{
+  "id": 102,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "Who developed React?",
+  "options": [
+    "Google",
+    "Microsoft",
+    "Facebook (Meta)",
+    "Amazon"
+  ],
+  "correctAnswer": "Facebook (Meta)",
+  "explanation": "React was developed by Facebook, now known as Meta."
+},
+{
+  "id": 103,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "Which file is commonly used as the entry point in a React app?",
+  "options": [
+    "index.html",
+    "index.js",
+    "App.html",
+    "main.css"
+  ],
+  "correctAnswer": "index.js",
+  "explanation": "index.js is commonly used as the entry point of a React application."
+},
+{
+  "id": 104,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "What is JSX?",
+  "options": [
+    "A database",
+    "A JavaScript extension syntax",
+    "A CSS file",
+    "A server"
+  ],
+  "correctAnswer": "A JavaScript extension syntax",
+  "explanation": "JSX allows writing HTML-like syntax inside JavaScript."
+},
+{
+  "id": 105,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "Which function component returns UI in React?",
+  "options": [
+    "display()",
+    "render()",
+    "return",
+    "show()"
+  ],
+  "correctAnswer": "return",
+  "explanation": "A function component returns JSX using the return statement."
+},
+{
+  "id": 106,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "What is a React component?",
+  "options": [
+    "A CSS class",
+    "A reusable UI block",
+    "A database table",
+    "A JavaScript variable"
+  ],
+  "correctAnswer": "A reusable UI block",
+  "explanation": "Components are reusable building blocks of a React application."
+},
+{
+  "id": 107,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "Which hook is used to manage state?",
+  "options": [
+    "useEffect",
+    "useState",
+    "useRef",
+    "useMemo"
+  ],
+  "correctAnswer": "useState",
+  "explanation": "useState is used to add state to functional components."
+},
+{
+  "id": 108,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "Which hook is used for side effects?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useReducer",
+    "useContext"
+  ],
+  "correctAnswer": "useEffect",
+  "explanation": "useEffect is used for API calls, subscriptions, and other side effects."
+},
+{
+  "id": 109,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "How is data passed from parent to child component?",
+  "options": [
+    "state",
+    "props",
+    "hooks",
+    "context"
+  ],
+  "correctAnswer": "props",
+  "explanation": "Props are used to pass data from parent to child components."
+},
+{
+  "id": 110,
+  "category": "React",
+  "difficulty": "Easy",
+  "question": "Which hook is used to access Context?",
+  "options": [
+    "useState",
+    "useContext",
+    "useMemo",
+    "useRef"
+  ],
+  "correctAnswer": "useContext",
+  "explanation": "useContext allows components to consume context values."
+},
+{
+  "id": 111,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "Which hook is used for complex state management?",
+  "options": [
+    "useReducer",
+    "useMemo",
+    "useEffect",
+    "useRef"
+  ],
+  "correctAnswer": "useReducer",
+  "explanation": "useReducer is useful when state logic is complex."
+},
+{
+  "id": 112,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "Which hook stores a mutable value without re-rendering?",
+  "options": [
+    "useState",
+    "useRef",
+    "useEffect",
+    "useContext"
+  ],
+  "correctAnswer": "useRef",
+  "explanation": "useRef stores mutable values and DOM references."
+},
+{
+  "id": 113,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "Which hook memoizes a computed value?",
+  "options": [
+    "useCallback",
+    "useMemo",
+    "useEffect",
+    "useRef"
+  ],
+  "correctAnswer": "useMemo",
+  "explanation": "useMemo caches expensive calculations."
+},
+{
+  "id": 114,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "Which hook memoizes a function?",
+  "options": [
+    "useMemo",
+    "useCallback",
+    "useReducer",
+    "useState"
+  ],
+  "correctAnswer": "useCallback",
+  "explanation": "useCallback prevents unnecessary function recreation."
+},
+{
+  "id": 115,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "Which prop uniquely identifies list items?",
+  "options": [
+    "index",
+    "key",
+    "id",
+    "value"
+  ],
+  "correctAnswer": "key",
+  "explanation": "The key prop helps React efficiently update lists."
+},
+{
+  "id": 116,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "What is the Virtual DOM?",
+  "options": [
+    "A database",
+    "A copy of the real DOM",
+    "A browser",
+    "A CSS engine"
+  ],
+  "correctAnswer": "A copy of the real DOM",
+  "explanation": "The Virtual DOM improves performance by minimizing direct DOM updates."
+},
+{
+  "id": 117,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "Which package is used for routing in React?",
+  "options": [
+    "react-router-dom",
+    "react-route",
+    "router-js",
+    "react-navigation"
+  ],
+  "correctAnswer": "react-router-dom",
+  "explanation": "react-router-dom provides routing functionality for React web apps."
+},
+{
+  "id": 118,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "Which hook is commonly used for navigation in React Router v6?",
+  "options": [
+    "useRoute",
+    "useNavigate",
+    "useHistory",
+    "useLink"
+  ],
+  "correctAnswer": "useNavigate",
+  "explanation": "useNavigate is used for programmatic navigation in React Router v6."
+},
+{
+  "id": 119,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "Which method is used to render a React app in React 18?",
+  "options": [
+    "ReactDOM.render()",
+    "createRoot().render()",
+    "renderApp()",
+    "mount()"
+  ],
+  "correctAnswer": "createRoot().render()",
+  "explanation": "React 18 introduced createRoot().render() for rendering applications."
+},
+{
+  "id": 120,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "Which hook should be used to fetch data after a component mounts?",
+  "options": [
+    "useState",
+    "useEffect",
+    "useRef",
+    "useMemo"
+  ],
+  "correctAnswer": "useEffect",
+  "explanation": "API calls are commonly made inside useEffect after the component mounts."
+},
+{
+  "id": 121,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "Which hook helps avoid unnecessary re-renders by memoizing a function?",
+  "options": ["useMemo", "useCallback", "useRef", "useEffect"],
+  "correctAnswer": "useCallback",
+  "explanation": "useCallback memoizes functions to improve performance."
+},
+{
+  "id": 122,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "What is the purpose of React Fragments?",
+  "options": ["Create animations", "Group elements without extra DOM nodes", "Manage state", "Handle routing"],
+  "correctAnswer": "Group elements without extra DOM nodes",
+  "explanation": "Fragments let you group multiple elements without adding extra nodes."
+},
+{
+  "id": 123,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "Which symbol is commonly used for React Fragments?",
+  "options": ["<> </>", "[]", "{}", "()"],
+  "correctAnswer": "<> </>",
+  "explanation": "The short syntax for React Fragment is <>...</>."
+},
+{
+  "id": 124,
+  "category": "React",
+  "difficulty": "Medium",
+  "question": "What is lifting state up in React?",
+  "options": ["Moving state to a parent component", "Deleting state", "Using Context API", "Using Redux"],
+  "correctAnswer": "Moving state to a parent component",
+  "explanation": "Lifting state up allows multiple child components to share the same state."
+},
+{
+  "id": 125,
+  "category": "React",
+  "difficulty": "Hard",
+  "question": "Which hook is mainly used to optimize expensive calculations?",
+  "options": ["useMemo", "useCallback", "useEffect", "useReducer"],
+  "correctAnswer": "useMemo",
+  "explanation": "useMemo caches expensive computations until dependencies change."
+},
+
+{
+  "id": 126,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "What does DSA stand for?",
+  "options": ["Data Structure & Algorithms", "Data Storage & Arrays", "Dynamic Structure Analysis", "Digital System Architecture"],
+  "correctAnswer": "Data Structure & Algorithms",
+  "explanation": "DSA stands for Data Structures and Algorithms."
+},
+{
+  "id": 127,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which data structure follows the LIFO principle?",
+  "options": ["Queue", "Stack", "Linked List", "Tree"],
+  "correctAnswer": "Stack",
+  "explanation": "Stack follows Last In First Out (LIFO)."
+},
+{
+  "id": 128,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which data structure follows the FIFO principle?",
+  "options": ["Queue", "Stack", "Tree", "Graph"],
+  "correctAnswer": "Queue",
+  "explanation": "Queue follows First In First Out (FIFO)."
+},
+{
+  "id": 129,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which data structure stores elements in key-value pairs?",
+  "options": ["Array", "HashMap", "Stack", "Queue"],
+  "correctAnswer": "HashMap",
+  "explanation": "HashMap stores data as key-value pairs."
+},
+{
+  "id": 130,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which data structure uses nodes connected by pointers?",
+  "options": ["Array", "Linked List", "Stack", "Queue"],
+  "correctAnswer": "Linked List",
+  "explanation": "Linked Lists are made up of nodes connected through pointers."
+},
+{
+  "id": 131,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which traversal visits Left → Root → Right?",
+  "options": ["Preorder", "Postorder", "Inorder", "Level Order"],
+  "correctAnswer": "Inorder",
+  "explanation": "Inorder traversal visits Left, Root, then Right."
+},
+{
+  "id": 132,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which traversal visits Root → Left → Right?",
+  "options": ["Inorder", "Postorder", "Preorder", "Level Order"],
+  "correctAnswer": "Preorder",
+  "explanation": "Preorder traversal starts with the root."
+},
+{
+  "id": 133,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which traversal visits Left → Right → Root?",
+  "options": ["Inorder", "Preorder", "Postorder", "Level Order"],
+  "correctAnswer": "Postorder",
+  "explanation": "Postorder traversal processes the root last."
+},
+{
+  "id": 134,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "What is the average time complexity of Binary Search?",
+  "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+  "correctAnswer": "O(log n)",
+  "explanation": "Binary Search halves the search space at every step."
+},
+{
+  "id": 135,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Binary Search works only on:",
+  "options": ["Unsorted arrays", "Sorted arrays", "Linked Lists", "Stacks"],
+  "correctAnswer": "Sorted arrays",
+  "explanation": "Binary Search requires the data to be sorted."
+},
+{
+  "id": 136,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which sorting algorithm has the best average time complexity?",
+  "options": ["Bubble Sort", "Merge Sort", "Selection Sort", "Insertion Sort"],
+  "correctAnswer": "Merge Sort",
+  "explanation": "Merge Sort runs in O(n log n) average time."
+},
+{
+  "id": 137,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is used in Breadth First Search (BFS)?",
+  "options": ["Stack", "Queue", "Array", "Tree"],
+  "correctAnswer": "Queue",
+  "explanation": "BFS uses a Queue to visit nodes level by level."
+},
+{
+  "id": 138,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is used in Depth First Search (DFS)?",
+  "options": ["Queue", "Stack", "Heap", "HashMap"],
+  "correctAnswer": "Stack",
+  "explanation": "DFS uses a Stack (or recursion)."
+},
+{
+  "id": 139,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "What is the worst-case time complexity of Bubble Sort?",
+  "options": ["O(log n)", "O(n)", "O(n log n)", "O(n²)"],
+  "correctAnswer": "O(n²)",
+  "explanation": "Bubble Sort has O(n²) worst-case time complexity."
+},
+{
+  "id": 140,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is commonly used to implement recursion?",
+  "options": ["Queue", "Stack", "Heap", "Linked List"],
+  "correctAnswer": "Stack",
+  "explanation": "Function calls are managed using the call stack."
+},
+{
+  "id": 141,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which data structure allows fast random access using an index?",
+  "options": ["Linked List", "Array", "Stack", "Queue"],
+  "correctAnswer": "Array",
+  "explanation": "Arrays provide O(1) random access using an index."
+},
+{
+  "id": 142,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which sorting algorithm repeatedly swaps adjacent elements?",
+  "options": ["Merge Sort", "Bubble Sort", "Quick Sort", "Heap Sort"],
+  "correctAnswer": "Bubble Sort",
+  "explanation": "Bubble Sort repeatedly compares and swaps adjacent elements."
+},
+{
+  "id": 143,
+  "category": "DSA",
+  "difficulty": "Easy",
+  "question": "Which search algorithm checks each element one by one?",
+  "options": ["Binary Search", "Linear Search", "DFS", "BFS"],
+  "correctAnswer": "Linear Search",
+  "explanation": "Linear Search checks elements sequentially."
+},
+{
+  "id": 144,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "What is the worst-case time complexity of Linear Search?",
+  "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+  "correctAnswer": "O(n)",
+  "explanation": "Linear Search may need to check every element."
+},
+{
+  "id": 145,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "What is the worst-case time complexity of Binary Search?",
+  "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+  "correctAnswer": "O(log n)",
+  "explanation": "Binary Search reduces the search space by half each step."
+},
+{
+  "id": 146,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which sorting algorithm uses divide and conquer?",
+  "options": ["Bubble Sort", "Selection Sort", "Merge Sort", "Insertion Sort"],
+  "correctAnswer": "Merge Sort",
+  "explanation": "Merge Sort divides the array and merges sorted halves."
+},
+{
+  "id": 147,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which sorting algorithm selects the smallest element in each pass?",
+  "options": ["Selection Sort", "Bubble Sort", "Merge Sort", "Quick Sort"],
+  "correctAnswer": "Selection Sort",
+  "explanation": "Selection Sort repeatedly selects the minimum element."
+},
+{
+  "id": 148,
+  "category": "DSA",
+  "difficulty": "Medium",
+  "question": "Which sorting algorithm inserts elements into their correct position?",
+  "options": ["Insertion Sort", "Heap Sort", "Quick Sort", "Merge Sort"],
+  "correctAnswer": "Insertion Sort",
+  "explanation": "Insertion Sort builds the sorted array one element at a time."
+},
+{
+  "id": 149,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is used to implement Priority Queue?",
+  "options": ["Heap", "Stack", "Queue", "Array"],
+  "correctAnswer": "Heap",
+  "explanation": "Priority Queues are commonly implemented using a Heap."
+},
+{
+  "id": 150,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which tree is commonly used for fast searching?",
+  "options": ["Binary Search Tree", "General Tree", "Trie", "Graph"],
+  "correctAnswer": "Binary Search Tree",
+  "explanation": "BST provides efficient searching, insertion, and deletion."
+},
+{
+  "id": 151,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which graph traversal algorithm uses recursion naturally?",
+  "options": ["BFS", "DFS", "Binary Search", "Linear Search"],
+  "correctAnswer": "DFS",
+  "explanation": "Depth First Search is naturally implemented using recursion."
+},
+{
+  "id": 152,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure stores unique values only?",
+  "options": ["Array", "Set", "Stack", "Queue"],
+  "correctAnswer": "Set",
+  "explanation": "A Set stores only unique values."
+},
+{
+  "id": 153,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which algorithm is used to find the shortest path in a weighted graph?",
+  "options": ["DFS", "BFS", "Dijkstra's Algorithm", "Bubble Sort"],
+  "correctAnswer": "Dijkstra's Algorithm",
+  "explanation": "Dijkstra's Algorithm finds the shortest path in graphs with non-negative edge weights."
+},
+{
+  "id": 154,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is used for function calls in programming languages?",
+  "options": ["Queue", "Stack", "Heap", "Tree"],
+  "correctAnswer": "Stack",
+  "explanation": "The call stack manages function calls and recursion."
+},
+{
+  "id": 155,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which notation describes algorithm efficiency?",
+  "options": ["Big O", "Big X", "Big Y", "Big Z"],
+  "correctAnswer": "Big O",
+  "explanation": "Big O notation describes time and space complexity."
+},
+{
+  "id": 156,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which sorting algorithm is generally the fastest on average?",
+  "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+  "correctAnswer": "Quick Sort",
+  "explanation": "Quick Sort has an average time complexity of O(n log n)."
+},
+{
+  "id": 157,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is best for implementing undo functionality?",
+  "options": ["Queue", "Stack", "Heap", "Tree"],
+  "correctAnswer": "Stack",
+  "explanation": "Undo operations follow the LIFO principle."
+},
+{
+  "id": 158,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which traversal visits nodes level by level?",
+  "options": ["Preorder", "Inorder", "Postorder", "Level Order"],
+  "correctAnswer": "Level Order",
+  "explanation": "Level Order traversal visits nodes level by level using a queue."
+},
+{
+  "id": 159,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is used to represent hierarchical data?",
+  "options": ["Array", "Tree", "Queue", "Stack"],
+  "correctAnswer": "Tree",
+  "explanation": "Trees naturally represent hierarchical relationships."
+},
+{
+  "id": 160,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "What is the time complexity of accessing an array element by index?",
+  "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+  "correctAnswer": "O(1)",
+  "explanation": "Array indexing provides constant-time access."
+},
+{
+  "id": 161,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure uses hashing for fast lookup?",
+  "options": ["Tree", "Hash Table", "Stack", "Queue"],
+  "correctAnswer": "Hash Table",
+  "explanation": "A Hash Table uses a hash function for fast insertion, deletion, and lookup."
+},
+{
+  "id": 162,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which sorting algorithm is stable?",
+  "options": ["Quick Sort", "Merge Sort", "Heap Sort", "Selection Sort"],
+  "correctAnswer": "Merge Sort",
+  "explanation": "Merge Sort is a stable sorting algorithm."
+},
+{
+  "id": 163,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which algorithm is commonly used to detect cycles in graphs?",
+  "options": ["DFS", "Binary Search", "Bubble Sort", "Linear Search"],
+  "correctAnswer": "DFS",
+  "explanation": "Depth First Search (DFS) is commonly used for cycle detection."
+},
+{
+  "id": 164,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which traversal of a Binary Search Tree returns elements in sorted order?",
+  "options": ["Preorder", "Postorder", "Inorder", "Level Order"],
+  "correctAnswer": "Inorder",
+  "explanation": "Inorder traversal of a BST visits nodes in ascending order."
+},
+{
+  "id": 165,
+  "category": "DSA",
+  "difficulty": "Hard",
+  "question": "Which data structure is most suitable for implementing recursion?",
+  "options": ["Queue", "Stack", "Graph", "Array"],
+  "correctAnswer": "Stack",
+  "explanation": "Recursive function calls are managed using the call stack."
+},
+
+{
+  "id": 166,
+  "category": "HR",
+  "difficulty": "Easy",
+  "question": "Tell me about yourself.",
+  "options": [
+    "Introduce yourself professionally",
+    "Talk only about hobbies",
+    "Talk only about family",
+    "Talk only about school"
+  ],
+  "correctAnswer": "Introduce yourself professionally",
+  "explanation": "Start with your education, skills, projects, and career goals."
+},
+{
+  "id": 167,
+  "category": "HR",
+  "difficulty": "Easy",
+  "question": "Why do you want to work at our company?",
+  "options": [
+    "For salary only",
+    "For experience and growth",
+    "Because it's close to home",
+    "No reason"
+  ],
+  "correctAnswer": "For experience and growth",
+  "explanation": "Employers value candidates interested in learning and contributing."
+},
+{
+  "id": 168,
+  "category": "HR",
+  "difficulty": "Easy",
+  "question": "What is your biggest strength?",
+  "options": [
+    "Mention a relevant professional strength",
+    "Say 'I have none'",
+    "Talk only about sports",
+    "Avoid answering"
+  ],
+  "correctAnswer": "Mention a relevant professional strength",
+  "explanation": "Choose a strength relevant to the job and support it with an example."
+},
+{
+  "id": 169,
+  "category": "HR",
+  "difficulty": "Easy",
+  "question": "How do you handle pressure?",
+  "options": [
+    "Stay calm and prioritize tasks",
+    "Panic",
+    "Ignore work",
+    "Leave immediately"
+  ],
+  "correctAnswer": "Stay calm and prioritize tasks",
+  "explanation": "Employers appreciate candidates who remain organized under pressure."
+},
+{
+  "id": 170,
+  "category": "HR",
+  "difficulty": "Medium",
+  "question": "Why should we hire you?",
+  "options": [
+    "I have relevant skills and a learning mindset",
+    "I need money",
+    "Because I applied",
+    "No reason"
+  ],
+  "correctAnswer": "I have relevant skills and a learning mindset",
+  "explanation": "Highlight your skills, projects, and willingness to learn."
+},
+{
+  "id": 171,
+  "category": "HR",
+  "difficulty": "Medium",
+  "question": "Where do you see yourself in five years?",
+  "options": [
+    "Growing with the company",
+    "I don't know",
+    "Retired",
+    "Doing nothing"
+  ],
+  "correctAnswer": "Growing with the company",
+  "explanation": "Show ambition while aligning your goals with the company's growth."
+},
+{
+  "id": 172,
+  "category": "HR",
+  "difficulty": "Medium",
+  "question": "How do you deal with failure?",
+  "options": [
+    "Learn from mistakes and improve",
+    "Blame others",
+    "Quit",
+    "Ignore it"
+  ],
+  "correctAnswer": "Learn from mistakes and improve",
+  "explanation": "Employers value resilience and continuous improvement."
+},
+{
+  "id": 173,
+  "category": "HR",
+  "difficulty": "Medium",
+  "question": "What motivates you?",
+  "options": [
+    "Learning new skills and solving problems",
+    "Doing nothing",
+    "Only salary",
+    "Avoiding work"
+  ],
+  "correctAnswer": "Learning new skills and solving problems",
+  "explanation": "A growth mindset is a strong motivator to mention."
+},
+{
+  "id": 174,
+  "category": "HR",
+  "difficulty": "Medium",
+  "question": "Are you comfortable working in a team?",
+  "options": [
+    "Yes, teamwork improves results",
+    "No",
+    "Only alone",
+    "Depends on mood"
+  ],
+  "correctAnswer": "Yes, teamwork improves results",
+  "explanation": "Teamwork and communication are important workplace skills."
+},
+{
+  "id": 175,
+  "category": "HR",
+  "difficulty": "Medium",
+  "question": "How do you prioritize your work?",
+  "options": [
+    "Based on importance and deadlines",
+    "Randomly",
+    "Ignore deadlines",
+    "Ask others to do it"
+  ],
+  "correctAnswer": "Based on importance and deadlines",
+  "explanation": "Prioritization helps complete important tasks efficiently."
+},
+{
+  "id": 176,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "How would you handle conflict with a teammate?",
+  "options": [
+    "Communicate respectfully and resolve it",
+    "Argue",
+    "Ignore forever",
+    "Complain immediately"
+  ],
+  "correctAnswer": "Communicate respectfully and resolve it",
+  "explanation": "Professional communication is the best approach."
+},
+{
+  "id": 177,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "What are your career goals?",
+  "options": [
+    "Continuous learning and professional growth",
+    "No goals",
+    "Only earning money",
+    "Undecided forever"
+  ],
+  "correctAnswer": "Continuous learning and professional growth",
+  "explanation": "Career goals should show ambition and commitment."
+},
+{
+  "id": 178,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "How do you respond to constructive criticism?",
+  "options": [
+    "Accept it and improve",
+    "Get angry",
+    "Ignore it",
+    "Argue"
+  ],
+  "correctAnswer": "Accept it and improve",
+  "explanation": "Constructive feedback helps you grow professionally."
+},
+{
+  "id": 179,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "Why are communication skills important in the workplace?",
+  "options": [
+    "They improve teamwork and productivity",
+    "They are not important",
+    "Only managers need them",
+    "Only clients need them"
+  ],
+  "correctAnswer": "They improve teamwork and productivity",
+  "explanation": "Good communication reduces misunderstandings and improves collaboration."
+},
+{
+  "id": 180,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "What would you do if you didn't know how to complete a task?",
+  "options": [
+    "Research, ask for guidance, and learn",
+    "Leave it unfinished",
+    "Guess randomly",
+    "Ignore it"
+  ],
+  "correctAnswer": "Research, ask for guidance, and learn",
+  "explanation": "Employers appreciate candidates who proactively learn and seek help when needed."
+},
+{
+  "id": 181,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "What is your biggest weakness?",
+  "options": [
+    "Mention a real weakness and explain how you're improving it",
+    "Say you have no weaknesses",
+    "Blame your teammates",
+    "Refuse to answer"
+  ],
+  "correctAnswer": "Mention a real weakness and explain how you're improving it",
+  "explanation": "Choose a genuine weakness and show the steps you're taking to improve."
+},
+{
+  "id": 182,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "Why are you looking for a new opportunity?",
+  "options": [
+    "To learn new skills and grow professionally",
+    "Because I dislike working",
+    "No specific reason",
+    "Only for a higher salary"
+  ],
+  "correctAnswer": "To learn new skills and grow professionally",
+  "explanation": "Focus on positive reasons such as learning, growth, and career development."
+},
+{
+  "id": 183,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "How do you manage your time when handling multiple tasks?",
+  "options": [
+    "Prioritize tasks based on importance and deadlines",
+    "Work randomly",
+    "Do the easiest task first every time",
+    "Ignore deadlines"
+  ],
+  "correctAnswer": "Prioritize tasks based on importance and deadlines",
+  "explanation": "Good time management involves planning, prioritization, and meeting deadlines."
+},
+{
+  "id": 184,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "What would you do if you made a mistake at work?",
+  "options": [
+    "Accept responsibility, fix it, and learn from it",
+    "Hide the mistake",
+    "Blame someone else",
+    "Ignore it"
+  ],
+  "correctAnswer": "Accept responsibility, fix it, and learn from it",
+  "explanation": "Taking ownership and learning from mistakes demonstrates professionalism."
+},
+{
+  "id": 185,
+  "category": "HR",
+  "difficulty": "Hard",
+  "question": "Why should we choose you over other candidates?",
+  "options": [
+    "Because of my skills, projects, willingness to learn, and positive attitude",
+    "I'm lucky",
+    "I don't know",
+    "Because I applied first"
+  ],
+  "correctAnswer": "Because of my skills, projects, willingness to learn, and positive attitude",
+  "explanation": "Highlight your technical skills, projects, adaptability, and enthusiasm for the role."
+}
+]

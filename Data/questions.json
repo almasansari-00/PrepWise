@@ -1,0 +1,1621 @@
+[
+  {
+    "id": 1,
+    "title": "What is HTML?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "HTML (HyperText Markup Language) is the standard markup language used to create the structure of web pages."
+  },
+  {
+    "id": 2,
+    "title": "What is the difference between HTML and HTML5?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "HTML5 introduced semantic tags, audio, video, canvas, local storage, geolocation, and many new APIs compared to older HTML versions."
+  },
+  {
+    "id": 3,
+    "title": "What are semantic HTML tags?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "Semantic tags clearly describe their meaning, such as &lt;header&gt, &lt;nav&gt;,&lt;main&gt; , &lt;section&gt;, &lt;article&gt;, and &lt;footer&gt;."
+  },
+  {
+    "id": 4,
+    "title": "What is the purpose of the DOCTYPE declaration?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The &lt;!DOCTYPE html&gt; declaration tells the browser that the document uses HTML5."
+  },
+  {
+    "id": 5,
+    "title": "What is the difference between &lt;div&gt; and &lt;span&gt;?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "&lt;div&gt; is a block-level element, while &lt;span&gt; is an inline element."
+  },
+  {
+    "id": 6,
+    "title": "What is the purpose of the alt attribute in images?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The alt attribute provides alternative text if the image cannot be displayed and improves accessibility."
+  },
+  {
+    "id": 7,
+    "title": "What is the difference between id and class?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "An id is unique and should be used once per page, while a class can be used on multiple elements."
+  },
+  {
+    "id": 8,
+    "title": "What is the difference between ordered and unordered lists?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "&lt;ol&gt; creates a numbered list, while &lt;ul&gt; creates a bulleted list."
+  },
+  {
+    "id": 9,
+    "title": "What are block-level and inline elements?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "Block elements take the full width available, while inline elements occupy only the space needed."
+  },
+  {
+    "id": 10,
+    "title": "What is the purpose of the meta viewport tag?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "It makes web pages responsive by controlling the viewport size and scaling on different devices."
+  },
+  {
+    "id": 11,
+    "title": "What is the difference between &lt;script&gt;, &lt;script async&gt;, and &lt;script defer&gt;?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "A normal script blocks HTML parsing. Async loads and executes independently, while defer loads in parallel and executes after HTML parsing is complete."
+  },
+  {
+    "id": 12,
+    "title": "What is the difference between GET and POST methods in HTML forms?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "GET sends data in the URL and is mainly used for fetching data. POST sends data in the request body and is used for submitting sensitive or large data."
+  },
+  {
+    "id": 13,
+    "title": "What is the purpose of the  &lt;head&gt; tag?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The &lt;head&gt; element contains metadata such as the page title, meta tags, stylesheets, scripts, and favicon."
+  },
+  {
+    "id": 14,
+    "title": "What is the difference between &lt;b&gt; and &lt;strong&gt; tags?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "&lt;b&gt; makes text bold for presentation, while &lt;strong&gt; indicates important content with semantic meaning."
+  },
+  {
+    "id": 15,
+    "title": "What is the difference between &lt;i&gt; and &lt;em&gt; tags?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "&lt;i&gt; displays italic text, while &lt;em&gt; adds emphasis and semantic meaning."
+  },
+  {
+    "id": 16,
+    "title": "What are data-* attributes in HTML?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "data-* attributes allow developers to store custom data on HTML elements, which can be accessed using JavaScript."
+  },
+  {
+    "id": 17,
+    "title": "What is an iframe?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "An iframe is used to embed another HTML page or external content inside the current web page."
+  },
+  {
+    "id": 18,
+    "title": "What is the purpose of the required attribute in forms?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The required attribute prevents form submission until the user fills in the required field."
+  },
+  {
+    "id": 19,
+    "title": "What is Local Storage in HTML5?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "Local Storage stores data in the browser with no expiration time, allowing data to persist even after the browser is closed."
+  },
+  {
+    "id": 20,
+    "title": "What are the new features introduced in HTML5?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "HTML5 introduced semantic elements, audio, video, canvas, SVG, local storage, geolocation, drag-and-drop, and improved form controls."
+  }
+,
+  {
+    "id": 21,
+    "title": "What is the purpose of the &lt; &gt;linktag?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The &lt;link&gt; tag is used to connect external resources such as CSS files, fonts, and icons to an HTML document."
+  },
+  {
+    "id": 22,
+    "title": "What is the difference between absolute and relative URLs?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "An absolute URL contains the complete web address, while a relative URL specifies the path relative to the current document."
+  },
+  {
+    "id": 23,
+    "title": "What is the purpose of the placeholder attribute?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The placeholder attribute displays a short hint inside an input field before the user enters a value."
+  },
+  {
+    "id": 24,
+    "title": "What is the difference between readonly and disabled attributes?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "A readonly field can be focused and submitted with the form, while a disabled field cannot be edited, focused, or submitted."
+  },
+  {
+    "id": 25,
+    "title": "What is the purpose of the &lt;label&gt; tag?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The &lt;label&gt; tag improves accessibility by associating text with a form control."
+  },
+  {
+    "id": 26,
+    "title": "What is the difference between id and name attributes?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The id attribute uniquely identifies an element in the document, while the name attribute identifies form data when submitted."
+  },
+  {
+    "id": 27,
+    "title": "What is the purpose of the autocomplete attribute?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The autocomplete attribute allows the browser to automatically fill form fields using previously entered values."
+  },
+  {
+    "id": 28,
+    "title": "What is the purpose of the download attribute in an anchor tag?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The download attribute tells the browser to download the linked file instead of opening it."
+  },
+  {
+    "id": 29,
+    "title": "What is the difference between &lt;section&gt; and &lt;article&gt;?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "A &lt;section&gt; groups related content, while an &lt;article&gt; represents independent, self-contained content."
+  },
+  {
+    "id": 30,
+    "title": "Why is accessibility important in HTML?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "Accessibility ensures that websites can be used by everyone, including people with disabilities, by using semantic HTML, proper labels, alt text, and keyboard-friendly navigation."
+  },
+  
+  {
+    "id": 31,
+    "title": "What is the purpose of the &lt;base&gt; tag?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "The &lt;base&gt; tag specifies a base URL for all relative URLs in a document."
+  },
+  {
+    "id": 32,
+    "title": "What is the difference between HTML and XHTML?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "HTML is more flexible, whereas XHTML follows strict XML syntax rules such as properly closed tags and lowercase element names."
+  },
+  {
+    "id": 33,
+    "title": "What is the purpose of the &lt;nonscript&gt;tag?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The &lt;nonscript&gt; tag displays alternative content when JavaScript is disabled or unsupported."
+  },
+  {
+    "id": 34,
+    "title": "What is lazy loading in HTML?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "Lazy loading delays loading images or iframes until they are about to enter the viewport, improving page performance."
+  },
+  {
+    "id": 35,
+    "title": "What is the purpose of the srcset attribute?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "The srcset attribute provides multiple image sources so the browser can choose the best one based on screen size or resolution."
+  },
+  {
+    "id": 36,
+    "title": "What is the difference between cookies and Local Storage?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "Cookies are sent with every HTTP request and have a smaller storage limit, while Local Storage stores more data in the browser and is not sent to the server."
+  },
+  {
+    "id": 37,
+    "title": "What is the purpose of the &lt;picture&gt; element?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The &lt;picture&gt; element allows developers to provide multiple image sources for responsive images."
+  },
+  {
+    "id": 38,
+    "title": "What is the purpose of the loading='lazy' attribute?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "It tells the browser to load images or iframes only when they are close to entering the user's viewport."
+  },
+  {
+    "id": 39,
+    "title": "How can you improve SEO using HTML?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "Use semantic HTML, proper heading hierarchy, meta description, title tag, alt attributes, structured content, and meaningful links."
+  },
+  {
+    "id": 40,
+    "title": "What are the best practices for writing clean HTML?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "Use semantic elements, proper indentation, meaningful class names, accessibility attributes, valid markup, and avoid unnecessary nested elements."
+  }
+  ,
+  {
+    "id": 41,
+    "title": "What is the purpose of the lang attribute in HTML?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The lang attribute specifies the language of the document, improving accessibility and helping search engines understand the content."
+  },
+  {
+    "id": 42,
+    "title": "What is the difference between &lt;header&gt;, &lt;main&gt;, and &lt;footer&gt;?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "The &lt;header&gt; contains introductory content, &lt;main&gt; contains the primary page content, and &lt;footer&gt; contains footer information like copyright or contact details."
+  },
+  {
+    "id": 43,
+    "title": "Why should only one &lt;h1&gt; tag generally be used on a page?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "Using one &lt;h1&gt; provides a clear main heading for users, screen readers, and search engines, improving accessibility and SEO."
+  },
+  {
+    "id": 44,
+    "title": "What is the purpose of the tabindex attribute?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The tabindex attribute controls the keyboard navigation order of focusable elements."
+  },
+  {
+    "id": 45,
+    "title": "What is the difference between inline, block, and inline-block elements?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "Block elements take the full available width, inline elements take only the required width, and inline-block elements allow width and height while staying inline."
+  },
+  {
+    "id": 46,
+    "title": "What is the purpose of the &lt;fieldset&gt;and &lt;legend&gt; tags?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "The &lt;fieldset&gt; groups related form controls, while &lt;legend&gt; provides a caption for the group."
+  },
+  {
+    "id": 47,
+    "title": "How do you embed audio and video in HTML5?",
+    "category": "HTML",
+    "difficulty": "Easy",
+    "answer": "HTML5 provides the &lt;audio&gt; and &lt;video&gt; elements, which allow media to be embedded without third-party plugins."
+  },
+  {
+    "id": 48,
+    "title": "What are the advantages of Semantic HTML?",
+    "category": "HTML",
+    "difficulty": "Medium",
+    "answer": "Semantic HTML improves accessibility, SEO, code readability, maintainability, and helps browsers and assistive technologies understand page structure."
+  },
+  {
+    "id": 49,
+    "title": "How can you optimize HTML for better website performance?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "Use semantic markup, minimize unnecessary elements, optimize images, lazy load media, defer scripts, and reduce page size."
+  },
+  {
+    "id": 50,
+    "title": "What are the most important HTML interview topics to prepare?",
+    "category": "HTML",
+    "difficulty": "Hard",
+    "answer": "Focus on semantic HTML, forms, tables, accessibility, SEO basics, multimedia, HTML5 features, local storage, meta tags, and document structure."
+  }
+,
+
+  {
+    "id": 51,
+    "title": "What is CSS?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "CSS (Cascading Style Sheets) is used to style and layout HTML elements, including colors, fonts, spacing, and responsive design."
+  },
+  {
+    "id": 52,
+    "title": "What are the different ways to apply CSS?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "CSS can be applied using Inline CSS, Internal CSS, and External CSS."
+  },
+  {
+    "id": 53,
+    "title": "What is the CSS Box Model?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "The CSS Box Model consists of Content, Padding, Border, and Margin. Every HTML element is treated as a rectangular box."
+  },
+  {
+    "id": 54,
+    "title": "What is the difference between margin and padding?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "Margin creates space outside an element's border, while padding creates space inside the border around the content."
+  },
+  {
+    "id": 55,
+    "title": "What is the difference between id and class selectors?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "An id selector targets one unique element, while a class selector can target multiple elements."
+  },
+  {
+    "id": 56,
+    "title": "What is CSS Specificity?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "Specificity determines which CSS rule is applied when multiple rules target the same element. Inline styles have the highest priority, followed by IDs, classes, and element selectors."
+  },
+  {
+    "id": 57,
+    "title": "What is the difference between display: none and visibility: hidden?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "display: none removes the element from the document layout, while visibility: hidden hides the element but keeps its space reserved."
+  },
+  {
+    "id": 58,
+    "title": "What is the difference between relative, absolute, fixed, and sticky positioning?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "Relative positions an element relative to itself, absolute positions relative to the nearest positioned ancestor, fixed positions relative to the viewport, and sticky switches between relative and fixed based on scrolling."
+  },
+  {
+    "id": 59,
+    "title": "What is Flexbox in CSS?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "Flexbox is a one-dimensional layout system used to align and distribute space between items efficiently in rows or columns."
+  },
+  {
+    "id": 60,
+    "title": "What is CSS Grid?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "CSS Grid is a two-dimensional layout system that allows developers to create complex layouts using rows and columns."
+  }
+,
+  {
+    "id": 61,
+    "title": "What is the difference between Flexbox and CSS Grid?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "Flexbox is designed for one-dimensional layouts (row or column), while CSS Grid is designed for two-dimensional layouts using rows and columns."
+  },
+  {
+    "id": 62,
+    "title": "What is the z-index property?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "The z-index property controls the stacking order of positioned elements. Elements with a higher z-index appear above elements with a lower z-index."
+  },
+  {
+    "id": 63,
+    "title": "What is the difference between em, rem, px, and % units?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "px is a fixed unit, em is relative to the parent element, rem is relative to the root element, and % is relative to the parent element's size."
+  },
+  {
+    "id": 64,
+    "title": "What is the purpose of media queries?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "Media queries are used to create responsive designs by applying different styles based on screen size, resolution, or device type."
+  },
+  {
+    "id": 65,
+    "title": "What is the difference between inline, inline-block, and block elements?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "Block elements take the full width, inline elements only take the required width and cannot set width or height, while inline-block elements stay inline but allow width and height."
+  },
+  {
+    "id": 66,
+    "title": "What is overflow in CSS?",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "answer": "The overflow property controls what happens when content exceeds the size of its container. Common values are visible, hidden, scroll, and auto."
+  },
+  {
+    "id": 67,
+    "title": "What is the difference between visibility: hidden and opacity: 0?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "visibility: hidden hides the element while keeping its layout space. opacity: 0 makes the element transparent but it can still receive user interactions."
+  },
+  {
+    "id": 68,
+    "title": "What is the box-sizing property?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "box-sizing defines how an element's total width and height are calculated. border-box includes padding and border within the specified width and height."
+  },
+  {
+    "id": 69,
+    "title": "What are CSS pseudo-classes?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "Pseudo-classes define the special state of an element, such as :hover, :focus, :active, :first-child, and :nth-child()."
+  },
+  {
+    "id": 70,
+    "title": "What are CSS pseudo-elements?",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "answer": "Pseudo-elements style specific parts of an element, such as ::before, ::after, ::first-letter, and ::first-line."
+  }
+,
+
+{
+  "id": 71,
+  "title": "What is the difference between transition and animation in CSS?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "Transitions animate changes between two states, while animations can create complex multi-step effects using keyframes."
+},
+{
+  "id": 72,
+  "title": "What is the transform property used for?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "The transform property is used to rotate, scale, translate, and skew elements without affecting the document layout."
+},
+{
+  "id": 73,
+  "title": "What is the difference between translate() and position properties?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "translate() moves an element visually using transforms, while position properties change the element's actual layout position."
+},
+{
+  "id": 74,
+  "title": "What are CSS variables?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "CSS variables are custom properties that store reusable values and are declared using the --name syntax."
+},
+{
+  "id": 75,
+  "title": "What is the purpose of the calc() function?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "The calc() function allows mathematical calculations inside CSS values."
+},
+{
+  "id": 76,
+  "title": "What is the difference between min-width and max-width?",
+  "category": "CSS",
+  "difficulty": "Easy",
+  "answer": "min-width sets the minimum allowed width, while max-width sets the maximum allowed width."
+},
+{
+  "id": 77,
+  "title": "What are viewport units in CSS?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "Viewport units such as vw, vh, vmin, and vmax are relative to the browser viewport size."
+},
+{
+  "id": 78,
+  "title": "What is the difference between justify-content and align-items in Flexbox?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "justify-content aligns items along the main axis, while align-items aligns items along the cross axis."
+},
+{
+  "id": 79,
+  "title": "What is the purpose of gap in Flexbox and Grid?",
+  "category": "CSS",
+  "difficulty": "Easy",
+  "answer": "The gap property creates space between flex or grid items without using margins."
+},
+{
+  "id": 80,
+  "title": "What is responsive web design?",
+  "category": "CSS",
+  "difficulty": "Easy",
+  "answer": "Responsive web design ensures that a website adapts properly to different screen sizes and devices."
+}
+,
+{
+  "id": 81,
+  "title": "What is the difference between opacity: 0 and display: none?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "opacity: 0 makes an element invisible but it still occupies space and can receive events. display: none completely removes the element from the document layout."
+},
+{
+  "id": 82,
+  "title": "What is the difference between visibility: hidden and display: none?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "visibility: hidden hides the element while keeping its layout space, whereas display: none removes the element completely from the layout."
+},
+{
+  "id": 83,
+  "title": "What is the object-fit property used for?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "The object-fit property specifies how an image or video should be resized to fit its container."
+},
+{
+  "id": 84,
+  "title": "What is the difference between relative units and absolute units in CSS?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "Relative units like %, em, rem, vw, and vh depend on another value, while absolute units like px remain fixed."
+},
+{
+  "id": 85,
+  "title": "What are CSS combinators?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "CSS combinators define relationships between selectors. They include descendant (space), child (>), adjacent sibling (+), and general sibling (~)."
+},
+{
+  "id": 86,
+  "title": "What is the difference between nth-child() and nth-of-type()?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "nth-child() selects elements based on their position among all siblings, while nth-of-type() selects based on the position among siblings of the same element type."
+},
+{
+  "id": 87,
+  "title": "What are CSS custom properties?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "CSS custom properties are reusable variables declared with -- and accessed using the var() function."
+},
+{
+  "id": 88,
+  "title": "What is the difference between inherit, initial, unset, and revert in CSS?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "inherit takes the parent's value, initial resets to the default value, unset behaves as inherit or initial depending on the property, and revert restores the browser or user stylesheet value."
+},
+{
+  "id": 89,
+  "title": "What are CSS filters?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "CSS filters apply graphical effects such as blur, brightness, contrast, grayscale, and drop-shadow to elements."
+},
+{
+  "id": 90,
+  "title": "How can you optimize CSS for better performance?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "Optimize CSS by removing unused styles, minimizing file size, using efficient selectors, reducing specificity, and avoiding excessive nesting."
+},
+{
+  "id": 91,
+  "title": "What is the difference between @import and <link> for loading CSS?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "The <link> tag loads CSS faster because the browser downloads it immediately, whereas @import waits until the CSS file is parsed, making it slower."
+},
+{
+  "id": 92,
+  "title": "What is the purpose of the :root selector?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "The :root selector targets the root element of the document and is commonly used to define global CSS variables."
+},
+{
+  "id": 93,
+  "title": "What is the difference between auto-fill and auto-fit in CSS Grid?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "auto-fill creates as many columns as possible including empty ones, while auto-fit collapses empty columns so existing items can expand."
+},
+{
+  "id": 94,
+  "title": "What is the clamp() function in CSS?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "The clamp() function sets a responsive value with a minimum, preferred, and maximum limit."
+},
+{
+  "id": 95,
+  "title": "What is the difference between width: 100% and width: 100vw?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "width: 100% uses the width of the parent element, while width: 100vw uses the full width of the browser viewport."
+},
+{
+  "id": 96,
+  "title": "What are keyframes in CSS?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "Keyframes define the stages of a CSS animation using the @keyframes rule."
+},
+{
+  "id": 97,
+  "title": "What is the difference between transform: scale() and zoom?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "scale() visually resizes an element without affecting layout, while zoom is non-standard and changes the layout in some browsers."
+},
+{
+  "id": 98,
+  "title": "What are the advantages of using CSS variables?",
+  "category": "CSS",
+  "difficulty": "Medium",
+  "answer": "CSS variables improve maintainability, reduce repetition, simplify theme changes, and make styles easier to manage."
+},
+{
+  "id": 99,
+  "title": "What are the best practices for writing clean CSS?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "Use meaningful class names, keep selectors simple, avoid unnecessary nesting, organize code, use CSS variables, and remove unused styles."
+},
+{
+  "id": 100,
+  "title": "What are the most important CSS interview topics to prepare?",
+  "category": "CSS",
+  "difficulty": "Hard",
+  "answer": "Focus on the Box Model, Flexbox, Grid, Positioning, Specificity, Responsive Design, Media Queries, CSS Variables, Animations, Transforms, and Performance Optimization."
+},
+{
+  "id": 101,
+  "title": "What is JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "JavaScript is a programming language used to make web pages interactive and dynamic."
+},
+{
+  "id": 102,
+  "title": "What is the difference between var, let, and const?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "var is function-scoped and can be redeclared. let is block-scoped and can be reassigned. const is block-scoped and cannot be reassigned."
+},
+{
+  "id": 103,
+  "title": "What are primitive data types in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "The primitive data types are String, Number, Boolean, Null, Undefined, Symbol, and BigInt."
+},
+{
+  "id": 104,
+  "title": "What is the difference between == and ===?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "== compares values after type conversion, while === compares both value and data type."
+},
+{
+  "id": 105,
+  "title": "What is hoisting?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Hoisting is JavaScript's behavior of moving declarations to the top of their scope before execution."
+},
+{
+  "id": 106,
+  "title": "What is scope in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "Scope determines where variables and functions can be accessed. Common scopes are global, function, and block scope."
+},
+{
+  "id": 107,
+  "title": "What is a closure?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "A closure is a function that remembers and can access variables from its outer scope even after the outer function has finished executing."
+},
+{
+  "id": 108,
+  "title": "What is the difference between null and undefined?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "undefined means a variable has been declared but not assigned a value, whereas null is an intentional assignment representing no value."
+},
+{
+  "id": 109,
+  "title": "What is NaN?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "NaN stands for 'Not a Number' and represents an invalid numeric result."
+},
+{
+  "id": 110,
+  "title": "What is the typeof operator?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "The typeof operator returns the data type of a variable or expression."
+},
+{
+  "id": 111,
+  "title": "What are template literals?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "Template literals use backticks (` `) to create strings with embedded expressions using ${}."
+},
+{
+  "id": 112,
+  "title": "What is the difference between function declaration and function expression?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Function declarations are hoisted completely, whereas function expressions are not fully hoisted."
+},
+{
+  "id": 113,
+  "title": "What are arrow functions?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "Arrow functions provide a shorter syntax for writing functions and do not have their own this binding."
+},
+{
+  "id": 114,
+  "title": "What is the this keyword?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "The this keyword refers to the object that is currently executing the function."
+},
+{
+  "id": 115,
+  "title": "What are callback functions?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "A callback is a function passed as an argument to another function to be executed later."
+},
+{
+  "id": 116,
+  "title": "What is an IIFE?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "An IIFE (Immediately Invoked Function Expression) is a function that runs immediately after it is defined."
+},
+{
+  "id": 117,
+  "title": "What is event bubbling?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Event bubbling is the process where an event starts from the target element and propagates upward through its ancestors."
+},
+{
+  "id": 118,
+  "title": "What is event capturing?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Event capturing is the process where an event propagates from the root element down to the target element."
+},
+{
+  "id": 119,
+  "title": "What is event delegation?",
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "answer": "Event delegation is a technique where a parent element handles events for its child elements using event bubbling."
+},
+{
+  "id": 120,
+  "title": "What is the DOM?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "The DOM (Document Object Model) is a tree-like representation of an HTML document that JavaScript can manipulate."
+},
+{
+  "id": 121,
+  "title": "What is the difference between synchronous and asynchronous JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Synchronous code executes one statement at a time, while asynchronous code allows other tasks to continue without waiting for long-running operations."
+},
+{
+  "id": 122,
+  "title": "What is a Promise in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "A Promise is an object representing the eventual completion or failure of an asynchronous operation."
+},
+{
+  "id": 123,
+  "title": "What are the states of a Promise?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "A Promise has three states: Pending, Fulfilled, and Rejected."
+},
+{
+  "id": 124,
+  "title": "What is async/await?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "async/await is syntax built on Promises that makes asynchronous code easier to read and write."
+},
+{
+  "id": 125,
+  "title": "What is the JavaScript Event Loop?",
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "answer": "The Event Loop continuously checks the call stack and callback queue to execute asynchronous tasks when the call stack becomes empty."
+},
+{
+  "id": 126,
+  "title": "What is the Call Stack?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "The Call Stack is a data structure that keeps track of function calls during program execution."
+},
+{
+  "id": 127,
+  "title": "What is a callback queue?",
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "answer": "The callback queue stores callback functions that are ready to execute after asynchronous operations complete."
+},
+{
+  "id": 128,
+  "title": "What is an object in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "An object is a collection of key-value pairs used to store related data and functionality."
+},
+{
+  "id": 129,
+  "title": "What is an array in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "An array is an ordered collection of values stored in a single variable."
+},
+{
+  "id": 130,
+  "title": "What is the difference between map() and forEach()?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "map() returns a new array after transforming each element, while forEach() executes a function for each element without returning a new array."
+},
+{
+  "id": 131,
+  "title": "What is the filter() method?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "filter() returns a new array containing only the elements that satisfy a specified condition."
+},
+{
+  "id": 132,
+  "title": "What is the reduce() method?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "reduce() processes all elements of an array and returns a single accumulated value."
+},
+{
+  "id": 133,
+  "title": "What is destructuring in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Destructuring allows values from arrays or properties from objects to be unpacked into separate variables."
+},
+{
+  "id": 134,
+  "title": "What is the spread operator (...) ?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "The spread operator expands arrays or objects into individual elements or properties."
+},
+{
+  "id": 135,
+  "title": "What is the rest operator (...) ?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "The rest operator collects multiple elements or function arguments into a single array."
+},
+{
+  "id": 136,
+  "title": "What is optional chaining (?.) ?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "Optional chaining safely accesses nested object properties without throwing an error if a property is undefined or null."
+},
+{
+  "id": 137,
+  "title": "What is nullish coalescing (??) ?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "The nullish coalescing operator returns the right-hand value only if the left-hand value is null or undefined."
+},
+{
+  "id": 138,
+  "title": "What is localStorage?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "localStorage is a browser API used to store key-value data that persists even after the browser is closed."
+},
+{
+  "id": 139,
+  "title": "What is sessionStorage?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "sessionStorage stores key-value data only for the current browser tab and is cleared when the tab is closed."
+},
+{
+  "id": 140,
+  "title": "What is JSON?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "JSON (JavaScript Object Notation) is a lightweight data format used to exchange data between applications."
+},
+{
+  "id": 141,
+  "title": "What is the difference between JSON.stringify() and JSON.parse()?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "JSON.stringify() converts a JavaScript object into a JSON string, while JSON.parse() converts a JSON string back into a JavaScript object."
+},
+{
+  "id": 142,
+  "title": "What is the difference between setTimeout() and setInterval()?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "setTimeout() executes a function once after a specified delay, while setInterval() repeatedly executes a function at specified intervals."
+},
+{
+  "id": 143,
+  "title": "How do you stop setInterval()?",
+  "category": "JavaScript",
+  "difficulty": "Easy",
+  "answer": "Use clearInterval(intervalId) to stop a running setInterval()."
+},
+{
+  "id": 144,
+  "title": "What is the fetch() API?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "The fetch() API is used to make asynchronous HTTP requests and returns a Promise."
+},
+{
+  "id": 145,
+  "title": "What is event.preventDefault()?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "event.preventDefault() prevents the browser's default behavior for an event, such as form submission or link navigation."
+},
+{
+  "id": 146,
+  "title": "What is event.stopPropagation()?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "event.stopPropagation() stops an event from propagating to parent elements during event bubbling or capturing."
+},
+{
+  "id": 147,
+  "title": "What is the difference between call(), apply(), and bind()?",
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "answer": "call() invokes a function immediately with arguments passed individually, apply() invokes it with arguments passed as an array, and bind() returns a new function with a fixed this value without executing it immediately."
+},
+{
+  "id": 148,
+  "title": "What is memoization in JavaScript?",
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "answer": "Memoization is an optimization technique that stores the results of expensive function calls so repeated calls with the same inputs return cached results."
+},
+{
+  "id": 149,
+  "title": "What are JavaScript modules?",
+  "category": "JavaScript",
+  "difficulty": "Medium",
+  "answer": "JavaScript modules allow code to be split into separate files using export and import statements, improving maintainability and reusability."
+},
+{
+  "id": 150,
+  "title": "What are the most important JavaScript interview topics?",
+  "category": "JavaScript",
+  "difficulty": "Hard",
+  "answer": "Focus on variables, scope, hoisting, closures, this, promises, async/await, event loop, DOM manipulation, event delegation, objects, arrays, ES6 features, modules, fetch API, and localStorage."
+},
+{
+  "id": 151,
+  "title": "What is React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "React is a JavaScript library developed by Facebook for building fast and interactive user interfaces using reusable components."
+},
+{
+  "id": 152,
+  "title": "What are the features of React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "React provides reusable components, Virtual DOM, one-way data binding, JSX support, fast rendering, and a component-based architecture."
+},
+{
+  "id": 153,
+  "title": "What is JSX?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "JSX (JavaScript XML) is a syntax extension that allows developers to write HTML-like code inside JavaScript."
+},
+{
+  "id": 154,
+  "title": "What is the difference between React and JavaScript?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "JavaScript is a programming language, while React is a JavaScript library used for building user interfaces."
+},
+{
+  "id": 155,
+  "title": "What is a component in React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "A component is a reusable piece of UI that can contain its own logic and rendering."
+},
+{
+  "id": 156,
+  "title": "What is the difference between functional and class components?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Functional components are simple JavaScript functions and use Hooks, while class components are ES6 classes that use lifecycle methods."
+},
+{
+  "id": 157,
+  "title": "What are props in React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "Props are read-only inputs passed from a parent component to a child component."
+},
+{
+  "id": 158,
+  "title": "What is state in React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "State is an object that stores data specific to a component and can change over time, causing the component to re-render."
+},
+{
+  "id": 159,
+  "title": "What is the difference between props and state?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Props are passed from parent components and are immutable, whereas state is managed within a component and can be updated."
+},
+{
+  "id": 160,
+  "title": "What is the Virtual DOM?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "The Virtual DOM is a lightweight copy of the real DOM that React uses to efficiently update only the changed parts of the UI."
+},
+{
+  "id": 161,
+  "title": "What is reconciliation in React?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Reconciliation is the process React uses to compare the Virtual DOM with the previous version and update only the necessary parts of the real DOM."
+},
+{
+  "id": 162,
+  "title": "What is ReactDOM?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "ReactDOM is a package that renders React components into the browser's DOM."
+},
+{
+  "id": 163,
+  "title": "What is create-react-app?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "Create React App is a tool that quickly sets up a React project with a preconfigured development environment."
+},
+{
+  "id": 164,
+  "title": "What is Vite in React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "Vite is a modern build tool that provides faster development and build times compared to Create React App."
+},
+{
+  "id": 165,
+  "title": "What are React Hooks?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Hooks are special functions that allow functional components to use state and other React features."
+},
+{
+  "id": 166,
+  "title": "What is useState()?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "useState() is a Hook used to add and manage state in functional components."
+},
+{
+  "id": 167,
+  "title": "What is useEffect()?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "useEffect() is a Hook used to perform side effects such as data fetching, subscriptions, or updating the DOM."
+},
+{
+  "id": 168,
+  "title": "What is the dependency array in useEffect()?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "The dependency array controls when useEffect() runs. An empty array runs it only once after the initial render."
+},
+{
+  "id": 169,
+  "title": "Why is the key prop important in React lists?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "The key prop helps React identify which list items have changed, improving rendering performance and preventing unnecessary re-renders."
+},
+{
+  "id": 170,
+  "title": "What is conditional rendering in React?",
+  "category": "React",
+  "difficulty": "Easy",
+  "answer": "Conditional rendering allows components or elements to be displayed based on specific conditions using if statements, the ternary operator, or logical operators."
+},
+{
+  "id": 171,
+  "title": "What is React Router?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "React Router is a library used for navigation and routing between different pages in a React application."
+},
+{
+  "id": 172,
+  "title": "What is the difference between BrowserRouter and HashRouter?",
+  "category": "React",
+  "difficulty": "Hard",
+  "answer": "BrowserRouter uses the HTML5 History API to create clean URLs, while HashRouter uses the URL hash (#) for routing and is useful on servers without route configuration."
+},
+{
+  "id": 173,
+  "title": "What is Context API in React?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Context API is a built-in React feature used to share data between components without passing props manually through every level."
+},
+{
+  "id": 174,
+  "title": "What is prop drilling?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Prop drilling is the process of passing props through multiple intermediate components to reach a deeply nested child component."
+},
+{
+  "id": 175,
+  "title": "What is Redux?",
+  "category": "React",
+  "difficulty": "Hard",
+  "answer": "Redux is a state management library that stores application state in a single global store and updates it using actions and reducers."
+},
+{
+  "id": 176,
+  "title": "What is lazy loading in React?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "Lazy loading loads components only when they are needed, reducing the initial bundle size and improving application performance."
+},
+{
+  "id": 177,
+  "title": "What is React.memo()?",
+  "category": "React",
+  "difficulty": "Hard",
+  "answer": "React.memo() is a higher-order component that prevents unnecessary re-rendering of functional components when their props have not changed."
+},
+{
+  "id": 178,
+  "title": "What is useRef()?",
+  "category": "React",
+  "difficulty": "Medium",
+  "answer": "useRef() is a Hook used to access DOM elements directly or store mutable values that do not trigger re-renders."
+},
+{
+  "id": 179,
+  "title": "What is useMemo()?",
+  "category": "React",
+  "difficulty": "Hard",
+  "answer": "useMemo() memoizes the result of an expensive calculation and recomputes it only when its dependencies change."
+},
+{
+  "id": 180,
+  "title": "What are the most important React interview topics?",
+  "category": "React",
+  "difficulty": "Hard",
+  "answer": "Focus on JSX, components, props, state, Hooks, Virtual DOM, reconciliation, routing, Context API, Redux, performance optimization, lazy loading, and React.memo()."
+},
+{
+  "id": 181,
+  "title": "What is Data Structures and Algorithms (DSA)?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Data Structures organize and store data efficiently, while Algorithms are step-by-step procedures used to solve problems."
+},
+{
+  "id": 182,
+  "title": "What is the difference between a Data Structure and an Algorithm?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Data Structure stores and organizes data, whereas an Algorithm defines the steps to solve a specific problem using that data."
+},
+{
+  "id": 183,
+  "title": "What is Time Complexity?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Time Complexity measures how the execution time of an algorithm grows as the input size increases. It is commonly expressed using Big O notation."
+},
+{
+  "id": 184,
+  "title": "What is Space Complexity?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Space Complexity measures the amount of memory an algorithm requires relative to the input size."
+},
+{
+  "id": 185,
+  "title": "What is Big O notation?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Big O notation describes the worst-case time or space complexity of an algorithm as the input size grows."
+},
+{
+  "id": 186,
+  "title": "What are the common Big O complexities?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Common complexities are O(1), O(log n), O(n), O(n log n), O(n²), O(2ⁿ), and O(n!)."
+},
+{
+  "id": 187,
+  "title": "What is an Array?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "An array is a collection of elements stored in contiguous memory locations and accessed using an index."
+},
+{
+  "id": 188,
+  "title": "What are the advantages of Arrays?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Arrays provide fast random access, simple implementation, and efficient memory usage for fixed-size collections."
+},
+{
+  "id": 189,
+  "title": "What are the disadvantages of Arrays?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Arrays have a fixed size, and insertion or deletion in the middle requires shifting elements."
+},
+{
+  "id": 190,
+  "title": "What is Linear Search?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Linear Search checks each element one by one until the target element is found or the list ends."
+},
+{
+  "id": 191,
+  "title": "What is Binary Search?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Binary Search repeatedly divides a sorted array into halves to efficiently find a target element."
+},
+{
+  "id": 192,
+  "title": "What is the time complexity of Binary Search?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "The time complexity of Binary Search is O(log n)."
+},
+{
+  "id": 193,
+  "title": "What is a Linked List?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Linked List is a linear data structure where each node contains data and a pointer to the next node."
+},
+{
+  "id": 194,
+  "title": "What are the types of Linked Lists?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "The main types are Singly Linked List, Doubly Linked List, and Circular Linked List."
+},
+{
+  "id": 195,
+  "title": "What is the difference between an Array and a Linked List?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Arrays use contiguous memory and provide fast indexing, while Linked Lists use dynamic memory and allow efficient insertion and deletion."
+},
+{
+  "id": 196,
+  "title": "What is a Stack?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Stack is a linear data structure that follows the Last In, First Out (LIFO) principle."
+},
+{
+  "id": 197,
+  "title": "What are the main operations of a Stack?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "The main operations are Push, Pop, Peek (Top), and IsEmpty."
+},
+{
+  "id": 198,
+  "title": "What is a Queue?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Queue is a linear data structure that follows the First In, First Out (FIFO) principle."
+},
+{
+  "id": 199,
+  "title": "What are the main operations of a Queue?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "The main operations are Enqueue, Dequeue, Front (Peek), and IsEmpty."
+},
+{
+  "id": 200,
+  "title": "What is the difference between a Stack and a Queue?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Stack follows the LIFO principle, while a Queue follows the FIFO principle."
+},
+{
+  "id": 201,
+  "title": "What is Recursion?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Recursion is a programming technique where a function calls itself until a base condition is met."
+},
+{
+  "id": 202,
+  "title": "What is a base case in Recursion?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A base case is the condition that stops a recursive function from calling itself indefinitely."
+},
+{
+  "id": 203,
+  "title": "What is the difference between Recursion and Iteration?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Recursion solves problems by calling the same function repeatedly, while iteration uses loops such as for or while."
+},
+{
+  "id": 204,
+  "title": "What is a Tree in Data Structures?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Tree is a hierarchical data structure consisting of nodes connected by edges with a single root node."
+},
+{
+  "id": 205,
+  "title": "What is a Binary Tree?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "A Binary Tree is a tree in which each node has at most two children called the left child and right child."
+},
+{
+  "id": 206,
+  "title": "What is a Binary Search Tree (BST)?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "A Binary Search Tree is a Binary Tree where the left subtree contains smaller values and the right subtree contains larger values than the root."
+},
+{
+  "id": 207,
+  "title": "What are Tree Traversals?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Tree traversals are methods of visiting every node in a tree, including Inorder, Preorder, Postorder, and Level Order."
+},
+{
+  "id": 208,
+  "title": "What is Inorder Traversal?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Inorder Traversal visits the left subtree, then the root node, and finally the right subtree."
+},
+{
+  "id": 209,
+  "title": "What is Preorder Traversal?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Preorder Traversal visits the root node first, then the left subtree, and finally the right subtree."
+},
+{
+  "id": 210,
+  "title": "What is Postorder Traversal?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Postorder Traversal visits the left subtree, then the right subtree, and finally the root node."
+},
+{
+  "id": 211,
+  "title": "What is a Heap?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "A Heap is a complete binary tree that satisfies the heap property and is commonly used to implement priority queues."
+},
+{
+  "id": 212,
+  "title": "What is the difference between Min Heap and Max Heap?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "In a Min Heap the smallest element is at the root, while in a Max Heap the largest element is at the root."
+},
+{
+  "id": 213,
+  "title": "What is Hashing?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Hashing is a technique that maps data to a fixed-size value called a hash code, enabling fast searching and retrieval."
+},
+{
+  "id": 214,
+  "title": "What is a Hash Table?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "A Hash Table stores key-value pairs and uses a hash function for efficient insertion, deletion, and searching."
+},
+{
+  "id": 215,
+  "title": "What is a collision in Hashing?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "A collision occurs when two different keys generate the same hash value."
+},
+{
+  "id": 216,
+  "title": "How can collisions be resolved in Hashing?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "Collisions can be resolved using techniques such as Separate Chaining and Open Addressing."
+},
+{
+  "id": 217,
+  "title": "What is Bubble Sort?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order."
+},
+{
+  "id": 218,
+  "title": "What is the time complexity of Bubble Sort?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "The average and worst-case time complexity of Bubble Sort is O(n²)."
+},
+{
+  "id": 219,
+  "title": "What is Selection Sort?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Selection Sort repeatedly selects the smallest element from the unsorted portion and places it in its correct position."
+},
+{
+  "id": 220,
+  "title": "What is Insertion Sort?",
+  "category": "DSA",
+  "difficulty": "Easy",
+  "answer": "Insertion Sort builds the sorted array one element at a time by inserting each element into its correct position."
+},
+{
+  "id": 221,
+  "title": "What is Merge Sort?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Merge Sort is a divide-and-conquer sorting algorithm that recursively divides the array into halves, sorts them, and merges them back together."
+},
+{
+  "id": 222,
+  "title": "What is the time complexity of Merge Sort?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "The time complexity of Merge Sort is O(n log n) in the best, average, and worst cases."
+},
+{
+  "id": 223,
+  "title": "What is Quick Sort?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "Quick Sort is a divide-and-conquer algorithm that selects a pivot element and partitions the array around it before recursively sorting the partitions."
+},
+{
+  "id": 224,
+  "title": "What is the time complexity of Quick Sort?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "The average-case time complexity is O(n log n), while the worst-case time complexity is O(n²)."
+},
+{
+  "id": 225,
+  "title": "What is a Graph in Data Structures?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "A Graph is a non-linear data structure consisting of vertices (nodes) connected by edges."
+},
+{
+  "id": 226,
+  "title": "What is the difference between BFS and DFS?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "Breadth-First Search (BFS) explores nodes level by level using a queue, while Depth-First Search (DFS) explores as deep as possible before backtracking using a stack or recursion."
+},
+{
+  "id": 227,
+  "title": "What is Dynamic Programming?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "Dynamic Programming is an optimization technique that solves complex problems by breaking them into overlapping subproblems and storing their results."
+},
+{
+  "id": 228,
+  "title": "What is the Greedy Algorithm?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "A Greedy Algorithm makes the best possible choice at each step with the hope of finding the overall optimal solution."
+},
+{
+  "id": 229,
+  "title": "What is the Two Pointer technique?",
+  "category": "DSA",
+  "difficulty": "Medium",
+  "answer": "The Two Pointer technique uses two indices to traverse a data structure efficiently and is commonly used for searching, sorting, and array problems."
+},
+{
+  "id": 230,
+  "title": "What are the most important DSA interview topics?",
+  "category": "DSA",
+  "difficulty": "Hard",
+  "answer": "Focus on Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Binary Search Trees, Graphs, Hashing, Recursion, Sorting, Searching, Dynamic Programming, Greedy Algorithms, and Time & Space Complexity."
+}
+]

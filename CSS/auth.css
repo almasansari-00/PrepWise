@@ -1,0 +1,363 @@
+/* ================= RESET ================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+:root{
+
+    --bg:#020617;
+    --card:rgba(17,24,39,.75);
+    --primary:#2563EB;
+    --text:#F8FAFC;
+    --paragraph:#94A3B8;
+    --border:rgba(255,255,255,.08);
+
+}
+
+body{
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:linear-gradient(135deg,#020617,#0F172A,#111827);
+
+    padding:20px;
+
+}
+
+/* ================= LOGIN CARD ================= */
+
+.login-container{
+
+    width:100%;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.login-card{
+
+    width:100%;
+
+    max-width:430px;
+
+    background:var(--card);
+
+    backdrop-filter:blur(18px);
+
+    border:1px solid var(--border);
+
+    border-radius:20px;
+
+    padding:40px;
+
+    box-shadow:0 0 40px rgba(0,0,0,.35);
+
+}
+
+.login-card h2{
+
+    color:var(--text);
+
+    text-align:center;
+
+    margin-bottom:10px;
+
+    font-size:32px;
+
+}
+
+.login-card p{
+
+    text-align:center;
+
+    color:var(--paragraph);
+
+    margin-bottom:30px;
+
+}
+
+/* ================= INPUT ================= */
+
+.input-box{
+
+    display:flex;
+
+    align-items:center;
+
+    background:#1E293B;
+
+    border:1px solid var(--border);
+
+    border-radius:12px;
+
+    padding:14px 18px;
+
+    margin-bottom:18px;
+
+}
+
+.input-box i{
+
+    color:var(--primary);
+
+    margin-right:12px;
+
+    font-size:18px;
+
+}
+
+.input-box input{
+
+    width:100%;
+
+    border:none;
+
+    outline:none;
+
+    background:transparent;
+
+    color:var(--text);
+
+    font-size:16px;
+
+}
+
+.input-box input::placeholder{
+
+    color:#94A3B8;
+
+}
+
+/* ================= OPTIONS ================= */
+
+.options{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:25px;
+
+    font-size:14px;
+
+}
+
+.options label{
+
+    color:var(--paragraph);
+
+}
+
+.options a{
+
+    color:var(--primary);
+
+    text-decoration:none;
+
+}
+
+/* ================= BUTTON ================= */
+
+button{
+
+    width:100%;
+
+    border:none;
+
+    background:var(--primary);
+
+    color:white;
+
+    padding:15px;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    font-size:16px;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+button:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 0 25px rgba(37,99,235,.35);
+
+}
+
+/* ================= DIVIDER ================= */
+
+.divider{
+
+    text-align:center;
+
+    margin:25px 0;
+
+    color:var(--paragraph);
+
+    position:relative;
+
+}
+
+.divider::before,
+.divider::after{
+
+    content:"";
+
+    position:absolute;
+
+    top:50%;
+
+    width:40%;
+
+    height:1px;
+
+    background:var(--border);
+
+}
+
+.divider::before{
+
+    left:0;
+
+}
+
+.divider::after{
+
+    right:0;
+
+}
+
+/* ================= GOOGLE BUTTON ================= */
+
+.google-btn{
+
+    background:transparent;
+
+    border:1px solid var(--border);
+
+    color:var(--text);
+
+}
+
+.google-btn i{
+
+    margin-right:10px;
+
+}
+
+.google-btn:hover{
+
+    background:#1E293B;
+
+}
+
+/* ================= SIGNUP LINK ================= */
+
+.signup-link{
+
+    margin-top:25px;
+
+    text-align:center;
+
+}
+
+.signup-link a{
+
+    color:var(--primary);
+
+    text-decoration:none;
+
+    font-weight:600;
+
+}
+
+.back-container{
+
+    width:90%;
+    max-width:1200px;
+
+    margin:120px auto 20px;
+
+}
+
+.back-btn{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    padding:10px 18px;
+
+    background:#2563EB;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    border-radius:8px;
+
+    font-weight:500;
+
+    transition:.3s;
+
+}
+
+.back-btn:hover{
+
+    background:#1D4ED8;
+
+    transform:translateX(-5px);
+
+}
+
+.back-btn i{
+
+    font-size:14px;
+
+}
+
+
+
+
+/* ================= RESPONSIVE ================= */
+
+@media(max-width:480px){
+
+.login-card{
+
+padding:30px 20px;
+
+}
+
+.login-card h2{
+
+font-size:26px;
+
+}
+
+}
+
